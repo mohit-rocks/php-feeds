@@ -2,3 +2,5 @@ cacheUrl: https://mohit-rocks.github.io/php-feeds/cache.json
 sources:
   - href: https://phpinternals.news/feed.rss
   - href: https://stitcher.io/rss
+  - href: https://www.garfieldtech.com/blog/feed
+  - href: https://dri.es/rss.xml
