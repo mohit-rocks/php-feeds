@@ -49,6 +49,31 @@
           "title": "Running PHP code in parallel, the easy way"
         }
       ]
+    },
+    {
+      "title": "GarfieldTech - Technical thoughts, tutorials, and musings",
+      "feedUrl": "https://www.garfieldtech.com/blog/feed",
+      "siteUrl": "https://www.garfieldtech.com/",
+      "articles": [
+        {
+          "id": "290 at https://www.garfieldtech.com",
+          "author": "Larry",
+          "description": "One year of functional PHP; now in Russian!\n\n      \n\n          Submitted by Larry\n on 11 May 2021 - 8:14pm\n        \n        \n      \n\n    \n            \nA year ago, I published my first solo book, Thinking Functionally in PHP.  The reception has been extremely positive; almost everyone that's read it (that has bothered to talk to me about it) has found it clear, helpful, and enlightening.  Mission accomplished!\nTo celebrate the one year anniversary of the book's publication, I am happy to make two announcemen…",
+          "link": "https://www.garfieldtech.com/blog/thinking-functionally-php-russian",
+          "publishedOn": "2021-05-12T01:14:22.000Z",
+          "wordCount": 284,
+          "title": "One year of functional PHP; now in Russian!"
+        },
+        {
+          "id": "289 at https://www.garfieldtech.com",
+          "author": "Larry",
+          "description": "I made a TYPO\n\n      \n\n          Submitted by Larry\n on 5 May 2021 - 4:55pm\n        \n        \n      \n\n    \n            \nI am a firm believer in \"anything worth doing is worth doing right.\"  So when given the opportunity to get paid to do that, it's hard for me to say no.  Which is why I didn't.\nI am happy to report that this is my first week in my new role as Staff Engineer on the TYPO3 core contributors team.\nContinue reading on PeakD.\n\n        \nRead more about I made a TYPO",
+          "link": "https://www.garfieldtech.com/blog/starting-typo3",
+          "publishedOn": "2021-05-05T21:55:03.000Z",
+          "wordCount": 155,
+          "title": "I made a TYPO"
+        }
+      ]
     }
   ],
   "cliVersion": "1.7.2"

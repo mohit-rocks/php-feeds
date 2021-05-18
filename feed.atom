@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T05:04:08.457Z</updated>
+    <updated>2021-05-18T05:07:10.673Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
@@ -18,6 +18,56 @@ In this episode of "PHP Internals News" I converse with Ben Ramsey (Website, Twi
 The RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify a…]]></summary>
         <author>
             <name>info@phpinternals.news (Derick Rethans)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One year of functional PHP; now in Russian!]]></title>
+        <id>290 at https://www.garfieldtech.com</id>
+        <link href="https://www.garfieldtech.com/blog/thinking-functionally-php-russian"/>
+        <updated>2021-05-12T01:14:22.000Z</updated>
+        <summary type="html"><![CDATA[One year of functional PHP; now in Russian!
+
+      
+
+          Submitted by Larry
+ on 11 May 2021 - 8:14pm
+        
+        
+      
+
+    
+            
+A year ago, I published my first solo book, Thinking Functionally in PHP.  The reception has been extremely positive; almost everyone that's read it (that has bothered to talk to me about it) has found it clear, helpful, and enlightening.  Mission accomplished!
+To celebrate the one year anniversary of the book's publication, I am happy to make two announcemen…]]></summary>
+        <author>
+            <name>Larry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a TYPO]]></title>
+        <id>289 at https://www.garfieldtech.com</id>
+        <link href="https://www.garfieldtech.com/blog/starting-typo3"/>
+        <updated>2021-05-05T21:55:03.000Z</updated>
+        <summary type="html"><![CDATA[I made a TYPO
+
+      
+
+          Submitted by Larry
+ on 5 May 2021 - 4:55pm
+        
+        
+      
+
+    
+            
+I am a firm believer in "anything worth doing is worth doing right."  So when given the opportunity to get paid to do that, it's hard for me to say no.  Which is why I didn't.
+I am happy to report that this is my first week in my new role as Staff Engineer on the TYPO3 core contributors team.
+Continue reading on PeakD.
+
+        
+Read more about I made a TYPO]]></summary>
+        <author>
+            <name>Larry</name>
         </author>
     </entry>
     <entry>
