@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T05:02:04.076Z</updated>
+    <updated>2021-05-18T05:04:08.457Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
@@ -32,6 +32,16 @@ In this episode of "PHP Internals News" I talk with George Peter Banyard (Websit
 The RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Sp…]]></summary>
         <author>
             <name>info@phpinternals.news (Derick Rethans)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running PHP code in parallel, the easy way]]></title>
+        <id>https://stitcher.io/blog/parallel-php</id>
+        <link href="https://stitcher.io/blog/parallel-php"/>
+        <updated>2021-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I made a no-nonsensewrapper around pcntl_fork]]></summary>
+        <author>
+            <name>stitcher.io</name>
         </author>
     </entry>
     <entry>

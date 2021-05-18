@@ -33,6 +33,22 @@
           "title": "PHP Internals News: Episode 82: Auto-Capturing Multi-Statement Closures"
         }
       ]
+    },
+    {
+      "title": "stitcher.io",
+      "feedUrl": "https://stitcher.io/rss",
+      "siteUrl": "https://www.stitcher.io/rss",
+      "articles": [
+        {
+          "id": "https://stitcher.io/blog/parallel-php",
+          "author": null,
+          "description": "I made a no-nonsensewrapper around pcntl_fork",
+          "link": "https://stitcher.io/blog/parallel-php",
+          "publishedOn": "2021-04-28T00:00:00.000Z",
+          "wordCount": 1219,
+          "title": "Running PHP code in parallel, the easy way"
+        }
+      ]
     }
   ],
   "cliVersion": "1.7.2"
