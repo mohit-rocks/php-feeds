@@ -6,6 +6,15 @@
       "siteUrl": "https://phpinternals.news/feed.rss",
       "articles": [
         {
+          "id": "https://phpinternals.news/85",
+          "author": "info@phpinternals.news (Derick Rethans)",
+          "description": "PHP Internals News: Episode 85: Add IntlDatePatternGenerator\n London, UK\nThursday, May 20th 2021, 09:13 BST\nIn this episode of \"PHP Internals News\" I discuss the Add IntlDatePatternGenerator RFC with Mel Dafert (GitHub).\nThe RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify and iTunes. There is a dedicated website: https://phpinternals.news\nTranscript\nDerick Rethans  0:14\n          \n            \nHi I'm Der…",
+          "link": "https://phpinternals.news/85",
+          "publishedOn": "2021-05-20T08:13:00.000Z",
+          "wordCount": 1965,
+          "title": "PHP Internals News: Episode 85: Add IntlDatePatternGenerator"
+        },
+        {
           "id": "https://phpinternals.news/84",
           "author": "info@phpinternals.news (Derick Rethans)",
           "description": "PHP Internals News: Episode 84: Introducing the PHP 8.1 Release Managers\n London, UK\nThursday, May 13th 2021, 09:12 BST\nIn this episode of \"PHP Internals News\" I converse with Ben Ramsey (Website, Twitter, GitHub) and Patrick Allaert (GitHub, Twitter, StackOverflow, LinkedIn) about their new role as PHP 8.1 Release Managers, together with Joe Watkins.\nThe RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify a…",

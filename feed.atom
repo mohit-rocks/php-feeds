@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T01:07:34.024Z</updated>
+    <updated>2021-05-21T01:11:29.522Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHP Internals News: Episode 85: Add IntlDatePatternGenerator]]></title>
+        <id>https://phpinternals.news/85</id>
+        <link href="https://phpinternals.news/85"/>
+        <updated>2021-05-20T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[PHP Internals News: Episode 85: Add IntlDatePatternGenerator
+ London, UK
+Thursday, May 20th 2021, 09:13 BST
+In this episode of "PHP Internals News" I discuss the Add IntlDatePatternGenerator RFC with Mel Dafert (GitHub).
+The RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify and iTunes. There is a dedicated website: https://phpinternals.news
+Transcript
+Derick Rethans  0:14
+          
+            
+Hi I'm Der…]]></summary>
+        <author>
+            <name>info@phpinternals.news (Derick Rethans)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Internals News: Episode 84: Introducing the PHP 8.1 Release Managers]]></title>
         <id>https://phpinternals.news/84</id>
