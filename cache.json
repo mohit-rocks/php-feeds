@@ -31,15 +31,6 @@
           "publishedOn": "2021-04-29T08:11:00.000Z",
           "wordCount": 2703,
           "title": "PHP Internals News: Episode 83: Deprecate implicit non-integer-compatible float to int conversions"
-        },
-        {
-          "id": "https://phpinternals.news/82",
-          "author": "info@phpinternals.news (Derick Rethans)",
-          "description": "PHP Internals News: Episode 82: Auto-Capturing Multi-Statement Closures\n London, UK\nThursday, April 22nd 2021, 09:10 BST\nIn this episode of \"PHP Internals News\" I chat with Larry Garfield (Twitter) and Nuno Maduro (Twitter, GitHub, Blog) about the \"Auto-Capturing Multi-Statement Closures\" RFC.\nThe RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify and iTunes. There is a dedicated website: https://phpinterna…",
-          "link": "https://phpinternals.news/82",
-          "publishedOn": "2021-04-22T08:10:00.000Z",
-          "wordCount": 3575,
-          "title": "PHP Internals News: Episode 82: Auto-Capturing Multi-Statement Closures"
         }
       ]
     },

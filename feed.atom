@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T01:11:29.522Z</updated>
+    <updated>2021-05-22T01:10:38.120Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
@@ -111,20 +111,6 @@ The RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.
         <summary type="html"><![CDATA[I made a no-nonsensewrapper around pcntl_fork]]></summary>
         <author>
             <name>stitcher.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Internals News: Episode 82: Auto-Capturing Multi-Statement Closures]]></title>
-        <id>https://phpinternals.news/82</id>
-        <link href="https://phpinternals.news/82"/>
-        <updated>2021-04-22T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[PHP Internals News: Episode 82: Auto-Capturing Multi-Statement Closures
- London, UK
-Thursday, April 22nd 2021, 09:10 BST
-In this episode of "PHP Internals News" I chat with Larry Garfield (Twitter) and Nuno Maduro (Twitter, GitHub, Blog) about the "Auto-Capturing Multi-Statement Closures" RFC.
-The RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify and iTunes. There is a dedicated website: https://phpinterna…]]></summary>
-        <author>
-            <name>info@phpinternals.news (Derick Rethans)</name>
         </author>
     </entry>
 </feed>
