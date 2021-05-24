@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T01:20:25.556Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T01:17:24.723Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
     <entry>
