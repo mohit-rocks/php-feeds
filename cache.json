@@ -1,36 +1,189 @@
 {
   "sources": [
     {
-      "title": "PHP Internals News",
-      "feedUrl": "https://phpinternals.news/feed.rss",
-      "siteUrl": "https://phpinternals.news/feed.rss",
+      "title": "news-web.php.net: php.internals",
+      "feedUrl": "https://news-web.php.net/group.php?group=php.internals&format=rss",
+      "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
-          "id": "https://phpinternals.news/85",
-          "author": "info@phpinternals.news (Derick Rethans)",
-          "description": "PHP Internals News: Episode 85: Add IntlDatePatternGenerator\n London, UK\nThursday, May 20th 2021, 09:13 BST\nIn this episode of \"PHP Internals News\" I discuss the Add IntlDatePatternGenerator RFC with Mel Dafert (GitHub).\nThe RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify and iTunes. There is a dedicated website: https://phpinternals.news\nTranscript\nDerick Rethans  0:14\n          \n            \nHi I'm Der…",
-          "link": "https://phpinternals.news/85",
-          "publishedOn": "2021-05-20T08:13:00.000Z",
-          "wordCount": 1965,
-          "title": "PHP Internals News: Episode 85: Add IntlDatePatternGenerator"
+          "id": "http://news-web.php.net/php.internals/114831",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114831",
+          "publishedOn": "2021-06-11T15:02:03.000Z",
+          "wordCount": 188,
+          "title": "Re:  [RFC] New in initializers"
         },
         {
-          "id": "https://phpinternals.news/84",
-          "author": "info@phpinternals.news (Derick Rethans)",
-          "description": "PHP Internals News: Episode 84: Introducing the PHP 8.1 Release Managers\n London, UK\nThursday, May 13th 2021, 09:12 BST\nIn this episode of \"PHP Internals News\" I converse with Ben Ramsey (Website, Twitter, GitHub) and Patrick Allaert (GitHub, Twitter, StackOverflow, LinkedIn) about their new role as PHP 8.1 Release Managers, together with Joe Watkins.\nThe RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Spotify a…",
-          "link": "https://phpinternals.news/84",
-          "publishedOn": "2021-05-13T08:12:00.000Z",
-          "wordCount": 3446,
-          "title": "PHP Internals News: Episode 84: Introducing the PHP 8.1 Release Managers"
+          "id": "http://news-web.php.net/php.internals/114830",
+          "author": null,
+          "description": "Joe Watkins",
+          "link": "http://news-web.php.net/php.internals/114830",
+          "publishedOn": "2021-06-11T12:41:59.000Z",
+          "wordCount": 455,
+          "title": "Re:  [RFC] Partial Function Application, take 2"
         },
         {
-          "id": "https://phpinternals.news/83",
-          "author": "info@phpinternals.news (Derick Rethans)",
-          "description": "PHP Internals News: Episode 83: Deprecate implicit non-integer-compatible float to int conversions\n London, UK\nThursday, April 29th 2021, 09:11 BST\nIn this episode of \"PHP Internals News\" I talk with George Peter Banyard (Website, Twitter, GitHub, GitLab) about the \"Deprecate implicit non-integer-compatible float to int conversions\" RFC that he has proposed.\nThe RSS feed for this podcast is https://derickrethans.nl/feed-phpinternalsnews.xml, you can download this episode's MP3 file, and it's available on Sp…",
-          "link": "https://phpinternals.news/83",
-          "publishedOn": "2021-04-29T08:11:00.000Z",
-          "wordCount": 2703,
-          "title": "PHP Internals News: Episode 83: Deprecate implicit non-integer-compatible float to int conversions"
+          "id": "http://news-web.php.net/php.internals/114829",
+          "author": null,
+          "description": "Kamil Tekiela",
+          "link": "http://news-web.php.net/php.internals/114829",
+          "publishedOn": "2021-06-11T12:13:49.000Z",
+          "wordCount": 210,
+          "title": "Re:  [VOTE] Deprecate autovivification on false"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114828",
+          "author": null,
+          "description": "Guilliam Xavier",
+          "link": "http://news-web.php.net/php.internals/114828",
+          "publishedOn": "2021-06-11T11:01:43.000Z",
+          "wordCount": 360,
+          "title": "Re:  [RFC] Partial Function Application, take 2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114827",
+          "author": null,
+          "description": "Dmitry Stogov",
+          "link": "http://news-web.php.net/php.internals/114827",
+          "publishedOn": "2021-06-11T09:47:42.000Z",
+          "wordCount": 201,
+          "title": "Re:  [VOTE] Deprecate autovivification on false"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114826",
+          "author": null,
+          "description": "Claude Pache",
+          "link": "http://news-web.php.net/php.internals/114826",
+          "publishedOn": "2021-06-11T09:19:57.000Z",
+          "wordCount": 152,
+          "title": "Re:  [VOTE] Deprecate autovivification on false"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114825",
+          "author": null,
+          "description": "Dmitry Stogov",
+          "link": "http://news-web.php.net/php.internals/114825",
+          "publishedOn": "2021-06-11T06:58:17.000Z",
+          "wordCount": 211,
+          "title": "Re:  [VOTE] Deprecate autovivification on false"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114824",
+          "author": null,
+          "description": "Jordi Boggiano",
+          "link": "http://news-web.php.net/php.internals/114824",
+          "publishedOn": "2021-06-10T19:41:56.000Z",
+          "wordCount": 279,
+          "title": "Re:  [RFC] Partial Function Application, take 2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114823",
+          "author": null,
+          "description": "Guilliam Xavier",
+          "link": "http://news-web.php.net/php.internals/114823",
+          "publishedOn": "2021-06-10T18:35:39.000Z",
+          "wordCount": 206,
+          "title": "Re:  [RFC] Partial Function Application, take 2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114822",
+          "author": null,
+          "description": "Dan Ackroyd",
+          "link": "http://news-web.php.net/php.internals/114822",
+          "publishedOn": "2021-06-10T18:34:49.000Z",
+          "wordCount": 176,
+          "title": "Re:  [RFC] Partial Function Application, take 2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114821",
+          "author": null,
+          "description": "Guilliam Xavier",
+          "link": "http://news-web.php.net/php.internals/114821",
+          "publishedOn": "2021-06-10T17:32:21.000Z",
+          "wordCount": 381,
+          "title": "Re:  [RFC] Partial Function Application, take 2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114820",
+          "author": null,
+          "description": "Ben Ramsey",
+          "link": "http://news-web.php.net/php.internals/114820",
+          "publishedOn": "2021-06-10T15:56:07.000Z",
+          "wordCount": 114,
+          "title": "Re: PHP 8.0.0alpha1 is available for testing"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114819",
+          "author": null,
+          "description": "Levi Morrison via internals",
+          "link": "http://news-web.php.net/php.internals/114819",
+          "publishedOn": "2021-06-10T15:54:14.000Z",
+          "wordCount": 300,
+          "title": "Re:  Re: RFC: CachedIterable (rewindable, allows anykey&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114818",
+          "author": null,
+          "description": "Patrick ALLAERT",
+          "link": "http://news-web.php.net/php.internals/114818",
+          "publishedOn": "2021-06-10T15:51:27.000Z",
+          "wordCount": 436,
+          "title": "Re:  PHP 8.0.0alpha1 is available for testing"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114817",
+          "author": null,
+          "description": "Levi Morrison via internals",
+          "link": "http://news-web.php.net/php.internals/114817",
+          "publishedOn": "2021-06-10T15:50:07.000Z",
+          "wordCount": 264,
+          "title": "Re:  Re: Allow combining arg unpacking and named args"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114816",
+          "author": null,
+          "description": "Ben Ramsey",
+          "link": "http://news-web.php.net/php.internals/114816",
+          "publishedOn": "2021-06-10T15:45:59.000Z",
+          "wordCount": 279,
+          "title": "PHP 8.0.0alpha1 is available for testing"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114815",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114815",
+          "publishedOn": "2021-06-10T14:53:28.000Z",
+          "wordCount": 235,
+          "title": "Re:  Re: Allow combining arg unpacking and named args"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114814",
+          "author": null,
+          "description": "Pierre",
+          "link": "http://news-web.php.net/php.internals/114814",
+          "publishedOn": "2021-06-10T14:39:59.000Z",
+          "wordCount": 180,
+          "title": "Re:  Re: RFC: CachedIterable (rewindable, allows anykey&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114813",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114813",
+          "publishedOn": "2021-06-10T14:33:57.000Z",
+          "wordCount": 365,
+          "title": "Re:  [RFC] Partial Function Application, take 2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114812",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114812",
+          "publishedOn": "2021-06-10T14:16:11.000Z",
+          "wordCount": 664,
+          "title": "Re:  Re: RFC: CachedIterable (rewindable, allows anykey&repeating keys)"
         }
       ]
     },
@@ -40,41 +193,25 @@
       "siteUrl": "https://www.stitcher.io/rss",
       "articles": [
         {
-          "id": "https://stitcher.io/blog/parallel-php",
+          "id": "https://stitcher.io/blog/why-we-need-multi-line-short-closures-in-php",
           "author": null,
-          "description": "I made a no-nonsensewrapper around pcntl_fork",
-          "link": "https://stitcher.io/blog/parallel-php",
-          "publishedOn": "2021-04-28T00:00:00.000Z",
-          "wordCount": 1219,
-          "title": "Running PHP code in parallel, the easy way"
-        }
-      ]
-    },
-    {
-      "title": "GarfieldTech - Technical thoughts, tutorials, and musings",
-      "feedUrl": "https://www.garfieldtech.com/blog/feed",
-      "siteUrl": "https://www.garfieldtech.com/",
-      "articles": [
-        {
-          "id": "290 at https://www.garfieldtech.com",
-          "author": "Larry",
-          "description": "One year of functional PHP; now in Russian!\n\n      \n\n          Submitted by Larry\n on 11 May 2021 - 8:14pm\n        \n        \n      \n\n    \n            \nA year ago, I published my first solo book, Thinking Functionally in PHP.  The reception has been extremely positive; almost everyone that's read it (that has bothered to talk to me about it) has found it clear, helpful, and enlightening.  Mission accomplished!\nTo celebrate the one year anniversary of the book's publication, I am happy to make two announcemen…",
-          "link": "https://www.garfieldtech.com/blog/thinking-functionally-php-russian",
-          "publishedOn": "2021-05-12T01:14:22.000Z",
-          "wordCount": 284,
-          "title": "One year of functional PHP; now in Russian!"
+          "description": "<p><a href=\"/blog/new-in-php-81\">PHP 8.1</a> is already taking shape quite well, yet there's one feature I'd love to see added, that's still being discussed: multi-line short closures. The <a target=\"_blank\" href=\"https://wiki.php.net/rfc/auto-capture-closure\">RFC</a> calls them \"Auto-capturing multi-statement closures\" but I hope you don't mind me using the somewhat shorter name.</p>\n<p>If you're on an <a target=\"_blank\" href=\"https://www.php.net/supported-versions.php\">actively supported</a> PHP version, you already know about <a href=\"/blog/short-closures-in-php\">short closures</a> — a.k.a. \"arrow functions\". And, most importantly, one of their biggest drawbacks: they only <a href=\"/blog/short-closures-in-php#no-multi-line\">support one-line expressions</a>, which are also used as the return value.</p>\n<p>The multi-line short closures RFC by <a target=\"_blank\" href=\"https://twitter.com/enunomaduro\">Nuno</a> and <a target=\"_blank\" href=\"https://twitter.com/crell\">Larry</a> aims to solve that problem, in — what I think is — an elegant way.</p>\n<p>Some people are skeptical about this RFC though, and I want to address their arguments and share why I think it's still a worthwhile addition. Though first, I'll show you what the RFC is about. Keep in mind this is a proposal, and not added to PHP yet!</p>\n<p><div class=\"ad-container\">\n    <script async type=\"text/javascript\" src=\"//cdn.carbonads.com/carbon.js?serve=CK7ICK3W&placement=stitcherio\" id=\"_carbonads_js\"></script>\n</div>\n</p>\n<p>A quick refresher, this is what arrow functions in PHP look like today:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$getTitle = <span class=\"hljs-highlight  keyword\">fn</span> (<span class=\"hljs-highlight  type\">Post</span> $post) =&gt; $post-&gt;<span class=\"hljs-highlight  prop\">title</span>;</code></pre>\n<p>And this is what the RFC proposes:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$date = <span class=\"hljs-highlight  prop\">now</span>();\n\n$getSlug = <span class=\"hljs-highlight  keyword\">fn</span> (<span class=\"hljs-highlight  type\">Post</span> $post) {\n    $slug = <span class=\"hljs-highlight  type\">Str</span>::<span class=\"hljs-highlight  prop\">slug</span>($post-&gt;<span class=\"hljs-highlight  prop\">title</span>);\n    \n    <span class=\"hljs-keyword\">return</span> $date . $slug;\n}</code></pre>\n<p>There are two important things to note about multi-line short closures:</p>\n<ul>\n<li>they have access to the variables in the upper scope without needing <code><span class=\"hljs-highlight  keyword\">use</span></code>; and</li>\n<li>they <em>don't</em> automatically return the last expression, which makes sense since there can be several expressions in a multi-line closure.</li>\n</ul>\n<p>You might have already noticed it, but the RFC introduces an elegant kind of symmetry in how you can create closures:</p>\n<ul>\n<li>on the one hand there's <code><span class=\"hljs-highlight  keyword\">function</span></code> and <code><span class=\"hljs-highlight  keyword\">fn</span></code>, the first one doesn't auto-capture variables from the outside, the second one does; and</li>\n<li>on the other hand there's <code>{ … }</code> or <code>=></code>, using curly brackets allow you to write multiple lines, while <code>=></code> only accepts one expression, but also returns it.</li>\n</ul>\n<p>Because of this symmetry, all of the following code samples are possible and all of them behaving a little differently.</p>\n<p>Here's a closure that doesn't auto-capture outer scope, with multiple lines:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$date = <span class=\"hljs-highlight  prop\">now</span>();\n\n$getSlug = <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">Post</span> $post)</span> <span class=\"hljs-title\">use</span> <span class=\"hljs-params\">($date)</span> </span>{\n    $slug = <span class=\"hljs-highlight  type\">Str</span>::<span class=\"hljs-highlight  prop\">slug</span>($post-&gt;<span class=\"hljs-highlight  prop\">title</span>);\n    \n    <span class=\"hljs-keyword\">return</span> $date . $slug;\n}</code></pre>\n<p>Next, a closure that does capture outer scope and immediately returns the result:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$date = <span class=\"hljs-highlight  prop\">now</span>();\n\n$getSlug = <span class=\"hljs-highlight  keyword\">fn</span> (<span class=\"hljs-highlight  type\">Post</span> $post) =&gt; $date . <span class=\"hljs-highlight  type\">Str</span>::<span class=\"hljs-highlight  prop\">slug</span>($post-&gt;<span class=\"hljs-highlight  prop\">title</span>);</code></pre>\n<p>And finally — proposed by the RFC — a closure that does capture outer scope, but still allows multiple lines:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$date = <span class=\"hljs-highlight  prop\">now</span>();\n\n$getSlug = <span class=\"hljs-highlight  keyword\">fn</span> (<span class=\"hljs-highlight  type\">Post</span> $post) {\n    $slug = <span class=\"hljs-highlight  type\">Str</span>::<span class=\"hljs-highlight  prop\">slug</span>($post-&gt;<span class=\"hljs-highlight  prop\">title</span>);\n    \n    <span class=\"hljs-keyword\">return</span> $date . $slug;\n}</code></pre>\n<p>If you're counting, you know that one option is still missing: a closure that doesn't auto-capture outer scope and immediately returns a value:</p>\n<pre><code class=\"language-txt\">$date = <span class=\"hljs-highlight  prop\">now</span>();\n\n$getSlug = <span class=\"hljs-highlight  keyword\">function</span> (<span class=\"hljs-highlight  type\">Post</span> $post) <span class=\"hljs-highlight  keyword\">use</span> ($date) \n    =&gt; $date . <span class=\"hljs-highlight  type\">Str</span>::<span class=\"hljs-highlight  prop\">slug</span>($post-&gt;<span class=\"hljs-highlight  prop\">title</span>);</code></pre>\n<p>The RFC lists this last one as a possible future addition, but doesn't cover it right now.</p>\n<hr />\n<p>With the background info out of the way, let's look at some counter arguments as to why some people don't like this change.</p>\n<h3 id=\"auto-capturing-outer-scope-can-lead-to-bugs\"><a href=\"#auto-capturing-outer-scope-can-lead-to-bugs\" class=\"heading-anchor\">#</a> Auto-capturing outer scope can lead to bugs</h3>\n<p>Some people voice their fear about auto-capturing variables from the outer scope, especially that it can lead to unclear code in the long run and thus, bugs.</p>\n<p>I've got a few arguments against that fear.</p>\n<p>First, auto-capturing is already supported by PHP in the current short closures, there's nothing about this RFC that changes that. The arrow function RFC passed with 51 votes for, and 8 against after a <a target=\"_blank\" href=\"https://externals.io/message/104693#104693\">thorough discussion</a>, and has been used extensively in lots of projects since — take a look at some popular OSS frameworks if you want some examples. Clear signs that this particular behaviour is wanted by the majority of people, whether you're afraid of it or not.</p>\n<p>Nikita also shares this opinion:</p>\n<blockquote>\n<p>I'm generally in favor of supporting auto-capture for multi-line closures. I think that extensive experience in other programming languages has shown that auto-capture does not hinder readability of code, and I don't see any particular reason why the effects in PHP would be different. — <a target=\"_blank\" href=\"https://externals.io/message/113740#114239\">https://externals.io/message/113740#114239</a></p>\n</blockquote>\n<p>Auto-capturing outer scope might not be your preferred way of coding, but that doesn't mean the idea should be dismissed, as there are many people who <em>do</em> prefer this style.</p>\n<p>Fear should never be the driving force in a programming language's design, we should look at facts instead.</p>\n<p><div class=\"author\">\n    Noticed a tpyo? You can submit a\n    <a href=\"https://github.com/brendt/stitcher.io\" target=\"_blank\" rel=\"noopener noreferrer\">PR</a> to fix it.\n\n    If you want to stay up to date about what's happening on this blog, you can follow me\n    <a href=\"https://mobile.twitter.com/brendt_gd\" target=\"_blank\" rel=\"noopener noreferrer\">on Twitter</a> or subscribe to my newsletter:\n\n    <form action=\"https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0\" method=\"post\" class=\"newsletter-form\">\n        <label for=\"newsletter-email-2\">Email</label>\n        <input type=\"email\" name=\"email\" id=\"newsletter-email-2\"/>\n        <button type=\"submit\" class=\"cta cta-small\">Subscribe</button>\n    </form>\n</div>\n</p>\n<h3 id=\"by-value-or-by-reference-passing\"><a href=\"#by-value-or-by-reference-passing\" class=\"heading-anchor\">#</a> By-value or by-reference passing</h3>\n<p>I believe the RFC gets it right when it says that outer-scope variables are always captured by-value, and not by-reference. This means that you won't be able to change the value of an outer-scope variable from within your closure — a good thing.</p>\n<p>People might argue that this will cause confusion, because what happens if you <em>do</em> want to change the outer-scope variable? We could discuss about whether this would ever be a good idea or not, but it doesn't even matter since PHP already has the answer — remember that symmetry I talked about earlier?</p>\n<p>If you want by-reference passing, you'll need to specifically say which variables you want access to — which is exactly what <code><span class=\"hljs-highlight  keyword\">function</span></code> allows:</p>\n<pre><code class=\"language-txt\">$date = <span class=\"hljs-highlight  prop\">now</span>();\n\n$getSlug = <span class=\"hljs-highlight  keyword\">function</span> (<span class=\"hljs-highlight  type\">Post</span> $post) <span class=\"hljs-highlight  keyword\">use</span> (&amp;$date) {\n    $date = <span class=\"hljs-highlight  prop\">now</span>()-&gt;<span class=\"hljs-highlight  prop\">addDay</span>();\n    \n    <span class=\"hljs-highlight  comment\">// Please don't do this…</span>\n}</code></pre>\n<p>I'd argue that this RFC creates clear boundaries between what's possible with <code><span class=\"hljs-highlight  keyword\">function</span></code> and <code><span class=\"hljs-highlight  keyword\">fn</span></code>. It doesn't cause confusion; on the contrary: it creates consistency and clarity within PHP's syntax.</p>\n<h3 id=\"there's-little-space-to-be-gained\"><a href=\"#there's-little-space-to-be-gained\" class=\"heading-anchor\">#</a> There's little space to be gained</h3>\n<p>Some people argue that there's no need for adding multi-line short closures because there's little to be gained when it comes to the amount of characters you're writing. That might be true if you're not relying on outer-scope values, but to be honest it's not about how many characters you write.</p>\n<p>This RFC makes the language's syntax more consistent, and a consistent language allows for easier programming.</p>\n<p>When writing code, I don't want to be bothered with having to change <code><span class=\"hljs-highlight  keyword\">fn</span></code> to <code><span class=\"hljs-highlight  keyword\">function</span></code> when refactoring a closure that suddenly does need to be written on two lines instead of the prior one.</p>\n<p>It might seem like such a small detail, but it's those details that impact our day-by-day developer life. And isn't that what a maturing language should be about? Look at features like property promotion, named arguments, enums, attributes, the match operator, etc. You could argue that none of those feature are \"necessary\" to write working PHP code, but still they do improve my day-by-day life significantly — and I hope yours too.</p>\n<h3 id=\"holding-on-to-the-past\"><a href=\"#holding-on-to-the-past\" class=\"heading-anchor\">#</a> Holding on to the past</h3>\n<p>Finally, some people might find it difficult to deal with change, and you really need to ask yourself that question if you're voting on RFCs. Yes, you might not see a need for a given feature but you're not only voting for yourself, you have a responsibility to the PHP community; there's more to this than just your projects and your team.</p>\n<p>Do you know why closures right now don't auto-import variables from the outer scope? You might have gotten used to it, but do you know why they were designed this way 12 years ago? Larry <a target=\"_blank\" href=\"https://externals.io/message/113740#113780\">did some digging</a> in the mailing list archives, and discovered there were three reasons why <code><span class=\"hljs-highlight  keyword\">use</span></code> was introduced in the first place:</p>\n<ul>\n<li>there were performance concerns if variables of the outer-scope were auto-captured — concerns that are no longer relevant today;</li>\n<li>it was used to avoid surprise by-reference value passing — which also isn't a problem since we're always using by-value passing; and</li>\n<li>it allowed users to explicitly capture variables by-value or by-reference, which is now cleanly solved because of the distinction between <code><span class=\"hljs-highlight  keyword\">function</span></code> and <code><span class=\"hljs-highlight  keyword\">fn</span></code>.</li>\n</ul>\n<p>You might have gotten used to closures not auto-importing variables for the past decade, but keep in mind this behaviour was only added as a necessity back in the day. All arguments for only using explicit capture have been nullified by time, a great sign that PHP is maturing even more.</p>\n<p><div class=\"author\">\n    Noticed a tpyo? You can submit a\n    <a href=\"https://github.com/brendt/stitcher.io\" target=\"_blank\" rel=\"noopener noreferrer\">PR</a> to fix it.\n\n    If you want to stay up to date about what's happening on this blog, you can follow me\n    <a href=\"https://mobile.twitter.com/brendt_gd\" target=\"_blank\" rel=\"noopener noreferrer\">on Twitter</a> or subscribe to my newsletter:\n\n    <form action=\"https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0\" method=\"post\" class=\"newsletter-form\">\n        <label for=\"newsletter-email-3\">Email</label>\n        <input type=\"email\" name=\"email\" id=\"newsletter-email-3\"/>\n        <button type=\"submit\" class=\"cta cta-small\">Subscribe</button>\n    </form>\n</div>\n</p>\n<p>With all of that being said, I'm looking forward to Nuno and Larry opening the vote on their RFC. PHP 8.1's feature freeze is planned for the 20th of July, 2021; so there's still some time to finalize the details. If you're voting on RFCs, I truly hope you can see the big picture, as this is one of the RFCs that will have a significant impact on many people's developer life.</p>",
+          "link": "https://stitcher.io/blog/why-we-need-multi-line-short-closures-in-php",
+          "publishedOn": "2021-06-03T00:00:00.000Z",
+          "wordCount": 1574,
+          "title": "Why we need multi-line short closures in PHP"
         },
         {
-          "id": "289 at https://www.garfieldtech.com",
-          "author": "Larry",
-          "description": "I made a TYPO\n\n      \n\n          Submitted by Larry\n on 5 May 2021 - 4:55pm\n        \n        \n      \n\n    \n            \nI am a firm believer in \"anything worth doing is worth doing right.\"  So when given the opportunity to get paid to do that, it's hard for me to say no.  Which is why I didn't.\nI am happy to report that this is my first week in my new role as Staff Engineer on the TYPO3 core contributors team.\nContinue reading on PeakD.\n\n        \nRead more about I made a TYPO",
-          "link": "https://www.garfieldtech.com/blog/starting-typo3",
-          "publishedOn": "2021-05-05T21:55:03.000Z",
-          "wordCount": 155,
-          "title": "I made a TYPO"
+          "id": "https://stitcher.io/blog/new-in-php-81",
+          "author": null,
+          "description": "<p>PHP 8.1 is currently in active development and will be released on <a target=\"_blank\" href=\"https://wiki.php.net/todo/php81\">November 25, 2021</a>. Keep in mind that this date can still change if the core team, for examples, adds an extra beta release. We already know about new features, performance improvements, changes and deprecations; so let's go through them one by one.</p>\n<p><div class=\"sidenote\">\n    <p>\n        Tired of managing servers?\n        Check out <a href=\"https://gumroad.com/a/575280243\" ping=\"https://analytics.stitcher.io/r\" target=\"_blank\" rel=\"noopener noreferrer\">Serverless Visually Explained</a> by Matthieu Napoli and learn how to create scalable PHP applications on AWS.\n    </p>\n</div>\n</p>\n<h2 id=\"new-features\"><a href=\"#new-features\" class=\"heading-anchor\">#</a> New features</h2>\n<p>As with every release, PHP 8.1 adds some nice new features. Keep in mind that this list will grow over the year.</p>\n<p><div class=\"like-container\">\n    <div class=\"like unliked hidden\">\n        👍\n    </div>\n    <div class=\"like liked hidden\">\n        👍 <span class=\"counter\">0</span>\n    </div>\n</div>\n</p>\n<h3 id=\"enums-rfc\"><a href=\"#enums-rfc\" class=\"heading-anchor\">#</a> Enums <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/enumerations\">RFC</a></small></h3>\n<p>Enums will be added in PHP 8.1! If you're unsure what they can be used for, you can read about them <a target=\"_blank\" href=\"/blog/php-enums\">here</a>.</p>\n<p>Adding enums would be a significant improvement in PHP, so I for one am very much looking forward seeing enums arrive in PHP 8.1. To give you a quick preview of what they will look like, here's a code sample:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-highlight  keyword\">enum</span> <span class=\"hljs-highlight  type\">Status</span> {\n  <span class=\"hljs-highlight  keyword\"><span class=\"hljs-keyword\">case</span></span> <span class=\"hljs-highlight  prop\">Pending</span>;\n  <span class=\"hljs-highlight  keyword\"><span class=\"hljs-keyword\">case</span></span> <span class=\"hljs-highlight  prop\">Active</span>;\n  <span class=\"hljs-highlight  keyword\"><span class=\"hljs-keyword\">case</span></span> <span class=\"hljs-highlight  prop\">Archived</span>;\n}</code></pre>\n<p>And this is how they will be used:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">Post</span>\n</span>{\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">__construct</span><span class=\"hljs-params\">(\n        <span class=\"hljs-highlight  keyword\">private</span> <span class=\"hljs-highlight  type\">Status</span> <span class=\"hljs-highlight  prop\">$status</span> = <span class=\"hljs-highlight  type\">Status</span>::<span class=\"hljs-highlight  prop\">Pending</span>;\n    )</span> </span>{}\n\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">setStatus</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">Status</span> $status)</span>: <span class=\"hljs-title\">void</span>\n    </span>{\n        <span class=\"hljs-comment\">// …</span>\n    }\n}\n\n$post-&gt;<span class=\"hljs-highlight  prop\">setStatus</span>(<span class=\"hljs-highlight  type\">Status</span>::<span class=\"hljs-highlight  prop\">Active</span>);</code></pre>\n<p>You can find an in-depth analysis of how to use enums in <a href=\"/blog/php-enums\">this post</a>.</p>\n<p><div class=\"ad-container\">\n    <script async type=\"text/javascript\" src=\"//cdn.carbonads.com/carbon.js?serve=CK7ICK3W&placement=stitcherio\" id=\"_carbonads_js\"></script>\n</div>\n</p>\n<hr />\n<h3 id=\"fibers-rfc\"><a href=\"#fibers-rfc\" class=\"heading-anchor\">#</a> Fibers <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/fibers\">RFC</a></small></h3>\n<p>Fibers — aka <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Green_threads\">\"green threads\"</a> — are a low level mechanism to manage parallelism. You probably won't use them directly in your applications, but frameworks like Amphp and ReactPHP will make extensive use of them.</p>\n<p>Here's a simple example of using fibers:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$fiber = <span class=\"hljs-keyword\">new</span> <span class=\"hljs-highlight  type\">Fiber</span>(<span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-params\">()</span>: <span class=\"hljs-highlight  type\"><span class=\"hljs-title\">void</span></span> </span>{\n    $valueAfterResuming = <span class=\"hljs-highlight  type\">Fiber</span>::<span class=\"hljs-highlight  prop\">suspend</span>(<span class=\"hljs-string\">'after suspending'</span>);\n    \n    <span class=\"hljs-comment\">// … </span>\n});\n \n$valueAfterSuspending = $fiber-&gt;<span class=\"hljs-highlight  prop\">start</span>();\n \n$fiber-&gt;<span class=\"hljs-highlight  prop\">resume</span>(<span class=\"hljs-string\">'after resuming'</span>);</code></pre>\n<p>If you want to read some more about fibers, what they can and can't do, you can read <a href=\"/blog/fibers-with-a-grain-of-salt\">this post</a>.</p>\n<hr />\n<h3 id=\"performance-improvements-pr\"><a href=\"#performance-improvements-pr\" class=\"heading-anchor\">#</a> Performance improvements <small><a target=\"_blank\" href=\"https://github.com/php/php-src/pull/6627\">PR</a></small></h3>\n<p>Dmitry Stogov has added some improvements to opcache, he calls it \"<a target=\"_blank\" href=\"https://github.com/php/php-src/pull/6627\">inheritance cache</a>\". This feature allows links between classes to be cached, much like linked classes can be <a target=\"_blank\" href=\"/blog/preloading-in-php-74\">preloaded</a> as of PHP 7.4.</p>\n<p>Dmitry reports between a 5% and 8% performance increase thanks to this change, a nice little detail to look out for in PHP 8.1.</p>\n<hr />\n<h3 id=\"array-unpacking-with-string-keys-rfc\"><a href=\"#array-unpacking-with-string-keys-rfc\" class=\"heading-anchor\">#</a> Array unpacking with string keys <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/array_unpacking_string_keys\">RFC</a></small></h3>\n<p>Array unpacking was already allowed in <a href=\"/blog/new-in-php-74\">PHP 7.4</a>, but it only worked with numeric keys. The reason string keys weren't supported before is because there wasn't any consensus on how to merge array duplicates. The RFC cleanly solves this by following the semantics of <code><span class=\"hljs-highlight  prop\">array_merge</span></code>:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$array1 = [<span class=\"hljs-string\">\"a\"</span> =&gt; <span class=\"hljs-number\">1</span>];\n\n$array2 = [<span class=\"hljs-string\">\"b\"</span> =&gt; <span class=\"hljs-number\">2</span>];\n\n$array = [<span class=\"hljs-string\">\"a\"</span> =&gt; <span class=\"hljs-number\">0</span>, ...$array1, ...$array2];\n\n<span class=\"hljs-highlight  prop\">var_dump</span>($array); <span class=\"hljs-comment\">// [\"a\" =&gt; 1, \"b\" =&gt; 2]</span></code></pre>\n<hr />\n<h3 id=\"new-never-type-rfc\"><a href=\"#new-never-type-rfc\" class=\"heading-anchor\">#</a> New <code><span class=\"hljs-highlight  type\">never</span></code> type <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/noreturn_type\">RFC</a></small></h3>\n<p>The <code><span class=\"hljs-highlight  type\">never</span></code> type can be used to indicated that a function will actually stop the program flow. This can be done either by throwing an exception, calling <code><span class=\"hljs-highlight  keyword\">exit</span></code> or other similar functions.</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">dd</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">mixed</span> $input)</span>: <span class=\"hljs-title\">never</span>\n</span>{\n    <span class=\"hljs-comment\">// dump</span>\n    \n    <span class=\"hljs-keyword\">exit</span>;\n}</code></pre>\n<p><code><span class=\"hljs-highlight  type\">never</span></code> differs from <code><span class=\"hljs-highlight  type\">void</span></code> in that <code><span class=\"hljs-highlight  type\">void</span></code> still allows the program to continue. This might seem like a novelty feature but it's actually a quite useful one for static analysers.</p>\n<hr />\n<h3 id=\"new-array_is_list-function-rfc\"><a href=\"#new-array_is_list-function-rfc\" class=\"heading-anchor\">#</a> New <code><span class=\"hljs-highlight  prop\">array_is_list</span></code> function <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/is_list\">RFC</a></small></h3>\n<p>You've probably had to deal with this once in a while: determine if an array's keys are in numerical order, starting from index 0. Just like <code><span class=\"hljs-highlight  prop\">json_encode</span></code> decides whether an array should be encoded as an array or object.</p>\n<p>PHP 8.1 adds a built-in function to determine whether an array is a list with those semantics, or not:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$list = [<span class=\"hljs-string\">\"a\"</span>, <span class=\"hljs-string\">\"b\"</span>, <span class=\"hljs-string\">\"c\"</span>];\n\n<span class=\"hljs-highlight  prop\">array_is_list</span>($list); <span class=\"hljs-comment\">// true</span>\n\n$notAList = [<span class=\"hljs-number\">1</span> =&gt; <span class=\"hljs-string\">\"a\"</span>, <span class=\"hljs-number\">2</span> =&gt; <span class=\"hljs-string\">\"b\"</span>, <span class=\"hljs-number\">3</span> =&gt; <span class=\"hljs-string\">\"c\"</span>];\n\n<span class=\"hljs-highlight  prop\">array_is_list</span>($notAList); <span class=\"hljs-comment\">// false</span>\n\n$alsoNotAList = [<span class=\"hljs-string\">\"a\"</span> =&gt; <span class=\"hljs-string\">\"a\"</span>, <span class=\"hljs-string\">\"b\"</span> =&gt; <span class=\"hljs-string\">\"b\"</span>, <span class=\"hljs-string\">\"c\"</span> =&gt; <span class=\"hljs-string\">\"c\"</span>];\n\n<span class=\"hljs-highlight  prop\">array_is_list</span>($alsoNotAList); <span class=\"hljs-comment\">// false</span></code></pre>\n<p><div class=\"sidenote\">\n    <p>\n        Do you want to stay up-to-date about PHP 8.1's development? Subscribe to my newsletter and receive occasional updates:\n    </p>\n\n    <form action=\"https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0\" method=\"post\" class=\"newsletter-form\">\n        <label for=\"newsletter-email-10\">Email</label>\n        <input type=\"email\" name=\"email\" id=\"newsletter-email-10\"/>\n        <button type=\"submit\" class=\"cta cta-small\">Subscribe</button>\n    </form>\n</div>\n</p>\n<hr />\n<h3 id=\"final-class-constants-rfc\"><a href=\"#final-class-constants-rfc\" class=\"heading-anchor\">#</a> Final class constants <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/final_class_const\">RFC</a></small></h3>\n<p>Class constants in PHP can be overridden during inheritance:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">Foo</span>\n</span>{\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-keyword\">const</span> <span class=\"hljs-highlight  prop\">X</span> = <span class=\"hljs-string\">\"foo\"</span>;\n}\n \n<span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">Bar</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">Foo</span>\n</span>{\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-keyword\">const</span> <span class=\"hljs-highlight  prop\">X</span> = <span class=\"hljs-string\">\"bar\"</span>;\n}</code></pre>\n<p>As of PHP 8.1, you can mark such constants as <code><span class=\"hljs-highlight  keyword\">final</span></code> in order to prevent this:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">Foo</span>\n</span>{\n    <span class=\"hljs-keyword\">final</span> <span class=\"hljs-keyword\">public</span> <span class=\"hljs-keyword\">const</span> <span class=\"hljs-highlight  prop\">X</span> = <span class=\"hljs-string\">\"foo\"</span>;\n}\n \n<span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">Bar</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">Foo</span>\n</span>{\n    <span class=\"hljs-highlight  striped\"><span class=\"hljs-keyword\">public</span> <span class=\"hljs-keyword\">const</span> <span class=\"hljs-highlight  prop\">X</span> = <span class=\"hljs-string\">\"bar\"</span>;</span>\n    <span class=\"hljs-highlight  full error\">Fatal error: Bar::X cannot override <span class=\"hljs-keyword\">final</span> constant Foo::X</span>\n}</code></pre>\n<hr />\n<h3 id=\"new-fsync-function-rfc\"><a href=\"#new-fsync-function-rfc\" class=\"heading-anchor\">#</a> New <code><span class=\"hljs-highlight  prop\">fsync</span></code> function <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/fsync_function\">RFC</a></small></h3>\n<p>PHP 8.1 adds the <code><span class=\"hljs-highlight  prop\">fsync</span></code> and <code><span class=\"hljs-highlight  prop\">fdatasync</span></code> functions to force synchronization of file changes to disk and ensure operating system write buffers have been flushed before returning.</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$file = <span class=\"hljs-highlight  prop\">fopen</span>(<span class=\"hljs-string\">\"sample.txt\"</span>, <span class=\"hljs-string\">\"w\"</span>);\n\n<span class=\"hljs-highlight  prop\">fwrite</span>($file, <span class=\"hljs-string\">\"Some content\"</span>);\n\n<span class=\"hljs-keyword\">if</span> (<span class=\"hljs-highlight  prop\">fsync</span>($file)) {\n    <span class=\"hljs-keyword\">echo</span> <span class=\"hljs-string\">\"File has been successfully persisted to disk.\"</span>;\n}\n\n<span class=\"hljs-highlight  prop\">fclose</span>($file);</code></pre>\n<p>Because disk synchronization is a file system operation, the <code><span class=\"hljs-highlight  prop\">fsync</span></code> function will only work on plain file streams. Attempting to sync non-file streams will emit a warning.</p>\n<hr />\n<h3 id=\"explicit-octal-integer-literal-notation-rfc\"><a href=\"#explicit-octal-integer-literal-notation-rfc\" class=\"heading-anchor\">#</a> Explicit octal integer literal notation <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/explicit_octal_notation\">RFC</a></small></h3>\n<p>You can now use <code>0o</code> and <code>0O</code> to denote octal numbers. The previous notation by prefixing a number with <code>0</code> still works as well.</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-number\">016</span> === <span class=\"hljs-number\">0</span>o16; <span class=\"hljs-comment\">// true</span>\n<span class=\"hljs-number\">016</span> === <span class=\"hljs-number\">0</span>O16; <span class=\"hljs-comment\">// true</span></code></pre>\n<h2 id=\"breaking-changes\"><a href=\"#breaking-changes\" class=\"heading-anchor\">#</a> Breaking changes</h2>\n<p>While PHP 8.1 is a minor version, there will be some changes that might technically be a breaking change, and deprecations as well. Let's discuss them one by one.</p>\n<hr />\n<h3 id=\"restrict-$globals-usage-rfc\"><a href=\"#restrict-$globals-usage-rfc\" class=\"heading-anchor\">#</a> Restrict <code>$GLOBALS</code> usage <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/restrict_globals_usage\">RFC</a></small></h3>\n<p>A small change to how <code>$GLOBALS</code> is used will have a significant impact on the performance of all array operations. Nikita does a fine job explaining the problem and solution in the <a target=\"_blank\" href=\"https://wiki.php.net/rfc/restrict_globals_usage\">RFC</a>. The change means that some edge cases aren't possible to do any more with <code>$GLOBALS</code>. \"<em>What is no longer supported are writes to $GLOBALS taken as a whole. All the following will generate a compile-time error</em>\":</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">$GLOBALS = [];\n$GLOBALS += [];\n$GLOBALS =&amp; $x;\n$x =&amp; $GLOBALS;\n<span class=\"hljs-keyword\">unset</span>($GLOBALS);</code></pre>\n<p>On top of that, passing <code>$GLOBALS</code> by reference will generate a runtime error:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-highlight  prop\">by_ref</span>($GLOBALS); <span class=\"hljs-comment\">// Run-time error</span></code></pre>\n<p>Nikita analysed the top 2000 packages on Packagist, and only found 23 cases that will be affected by this change. We can conclude the impact of this — technically breaking — change will be low, which is why internals decided to add it in PHP 8.1. Remember that most of us will win by this change, given the positive performance impact it has everywhere in our code.</p>\n<hr />\n<h3 id=\"resource-to-object-migrations\"><a href=\"#resource-to-object-migrations\" class=\"heading-anchor\">#</a> Resource to object migrations</h3>\n<p>These changes are part of the long-term vision to convert all resources to dedicated objects. You can read more about it <a target=\"_blank\" href=\"https://github.com/php/php-tasks/issues/6\">here</a>.</p>\n<p><strong>Fileinfo functions with <code><span class=\"hljs-highlight  type\">finfo</span></code> objects</strong></p>\n<p>Functions like <code><span class=\"hljs-highlight  prop\">finfo_file</span></code> and <code><span class=\"hljs-highlight  prop\">finfo_open</span></code> used to accept and return resources. As of PHP 8.1, they work with <a target=\"_blank\" href=\"https://www.php.net/manual/en/class.finfo.php\"><code><span class=\"hljs-highlight  type\">finfo</span></code></a> objects.</p>\n<p><strong>IMAP functions with <code><span class=\"hljs-highlight  type\">IMAPConnection</span></code> objects</strong></p>\n<p>Just like the fileinfo change, IMAP functions like <code><span class=\"hljs-highlight  prop\">imap_body</span></code> and <code><span class=\"hljs-highlight  prop\">imap_open</span></code> no longer work with resources</p>\n<hr />\n<h3 id=\"deprecate-passing-null-to-non-nullable-arguments-of-internal-functions-rfc\"><a href=\"#deprecate-passing-null-to-non-nullable-arguments-of-internal-functions-rfc\" class=\"heading-anchor\">#</a> Deprecate passing null to non-nullable arguments of internal functions <small><a target=\"_blank\" href=\"https://wiki.php.net/rfc/deprecate_null_to_scalar_internal_arg\">RFC</a></small></h3>\n<p>This change is simple: internal functions currently accept <code>null</code> for arguments that are non-nullable, this RFC deprecates that behaviour. For example, this is currently possible:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-highlight  prop\">str_contains</span>(<span class=\"hljs-string\">\"string\"</span>, <span class=\"hljs-highlight  striped\"><span class=\"hljs-keyword\">null</span></span>);</code></pre>\n<p>In PHP 8.1, these kinds of errors will throw a deprecation warning, in PHP 9 they will be converted to type errors.</p>\n<hr />\n<h3 id=\"other-small-changes\"><a href=\"#other-small-changes\" class=\"heading-anchor\">#</a> Other small changes</h3>\n<p>With every release, there's a bunch of very minor changes to the language. All of them are listed in the <a target=\"_blank\" href=\"https://github.com/php/php-src/blob/master/UPGRADING\">UPGRADING</a> guide on GitHub, make sure to check it out if you want to know every little detail.</p>\n<p>Here's a summary of the most significant changes:</p>\n<ul>\n<li>\n<code><span class=\"hljs-highlight  prop\">MYSQLI_STMT_ATTR_UPDATE_MAX_LENGTH</span></code> no longer has an effect</li>\n<li>\n<code><span class=\"hljs-highlight  prop\">MYSQLI_STORE_RESULT_COPY_DATA</span></code> no longer has an effect</li>\n<li>\n<hljs type>PDO</hljs>::<hljs prop>ATTR_STRINGIFY_FETCHES</hljs> now also works with booleans</li>\n<li>Integers and floats in PDO MySQL and Sqlite result sets will be returned using native PHP types instead of strings when using emulated prepared statements</li>\n<li>Functions like <code><span class=\"hljs-highlight  prop\">htmlspecialchars</span></code> and <code><span class=\"hljs-highlight  prop\">htmlentities</span></code> now also escape <code>'</code> by default to <code>&amp;#039;</code>; malformed UTF-8 will also be replaced with a unicode character, instead of resulting in an empty string</li>\n<li>The <code><span class=\"hljs-highlight  prop\">hash</span></code>, <code><span class=\"hljs-highlight  prop\">hash_file</span></code> and <code><span class=\"hljs-highlight  prop\">hash_init</span></code> have an extra argument added to them called <code>$options</code>, it has a default value of <code>[]</code> so it won't affect your code</li>\n<li>New support for <code>MurmurHash3</code> and <code>xxHash</code>\n</li>\n</ul>\n<hr />\n<p>That's it for now, keep in mind I'll regularly update this post during the year, so make sure to <a href=\"/newsletter/subscribe\">subscribe</a> if you want to be kept in the loop. Are you excited for PHP 8.1? Let me know on <a target=\"_blank\" href=\"https://twitter.com/brendt_gd\">Twitter</a>!</p>\n<p><div class=\"author\">\n    Noticed a tpyo? You can submit a\n    <a href=\"https://github.com/brendt/stitcher.io\" target=\"_blank\" rel=\"noopener noreferrer\">PR</a> to fix it.\n\n    If you want to stay up to date about what's happening on this blog, you can follow me\n    <a href=\"https://mobile.twitter.com/brendt_gd\" target=\"_blank\" rel=\"noopener noreferrer\">on Twitter</a> or subscribe to my newsletter:\n\n    <form action=\"https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0\" method=\"post\" class=\"newsletter-form\">\n        <label for=\"newsletter-email-11\">Email</label>\n        <input type=\"email\" name=\"email\" id=\"newsletter-email-11\"/>\n        <button type=\"submit\" class=\"cta cta-small\">Subscribe</button>\n    </form>\n</div>\n</p>",
+          "link": "https://stitcher.io/blog/new-in-php-81",
+          "publishedOn": "2021-06-01T00:00:00.000Z",
+          "wordCount": 1527,
+          "title": "What&#039;s new in PHP 8.1"
         }
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.10.2"
 }
