@@ -6,6 +6,15 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114832",
+          "author": null,
+          "description": "Patrick ALLAERT",
+          "link": "http://news-web.php.net/php.internals/114832",
+          "publishedOn": "2021-06-11T17:22:46.000Z",
+          "wordCount": 571,
+          "title": "Zend Engine License in PHP source code"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114831",
           "author": null,
           "description": "Larry Garfield",
