@@ -6,6 +6,69 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114839",
+          "author": null,
+          "description": "Lauri_Kenttä",
+          "link": "http://news-web.php.net/php.internals/114839",
+          "publishedOn": "2021-06-12T20:45:55.000Z",
+          "wordCount": 234,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114838",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114838",
+          "publishedOn": "2021-06-12T19:21:19.000Z",
+          "wordCount": 201,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114837",
+          "author": null,
+          "description": "Lauri_Kenttä",
+          "link": "http://news-web.php.net/php.internals/114837",
+          "publishedOn": "2021-06-12T18:59:23.000Z",
+          "wordCount": 90,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114836",
+          "author": null,
+          "description": "Joe Watkins",
+          "link": "http://news-web.php.net/php.internals/114836",
+          "publishedOn": "2021-06-12T17:45:53.000Z",
+          "wordCount": 488,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114835",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114835",
+          "publishedOn": "2021-06-12T17:00:12.000Z",
+          "wordCount": 299,
+          "title": "[RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114834",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114834",
+          "publishedOn": "2021-06-12T15:20:05.000Z",
+          "wordCount": 381,
+          "title": "Re:  Re: RFC: CachedIterable (rewindable, allows anykey&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114833",
+          "author": null,
+          "description": "Go Kudo",
+          "link": "http://news-web.php.net/php.internals/114833",
+          "publishedOn": "2021-06-12T10:30:17.000Z",
+          "wordCount": 1319,
+          "title": "Re:  Re: [RFC] Under Discussion: Add Random class andRandomNumberGenerator interface"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114832",
           "author": null,
           "description": "Patrick ALLAERT",

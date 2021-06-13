@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:56:44.957Z</updated>
+    <updated>2021-06-13T01:03:03.900Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114839</id>
+        <link href="http://news-web.php.net/php.internals/114839"/>
+        <updated>2021-06-12T20:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Lauri_Kenttä]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114838</id>
+        <link href="http://news-web.php.net/php.internals/114838"/>
+        <updated>2021-06-12T19:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114837</id>
+        <link href="http://news-web.php.net/php.internals/114837"/>
+        <updated>2021-06-12T18:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Lauri_Kenttä]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114836</id>
+        <link href="http://news-web.php.net/php.internals/114836"/>
+        <updated>2021-06-12T17:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Joe Watkins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114835</id>
+        <link href="http://news-web.php.net/php.internals/114835"/>
+        <updated>2021-06-12T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: RFC: CachedIterable (rewindable, allows anykey&repeating keys)]]></title>
+        <id>http://news-web.php.net/php.internals/114834</id>
+        <link href="http://news-web.php.net/php.internals/114834"/>
+        <updated>2021-06-12T15:20:05.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] Under Discussion: Add Random class andRandomNumberGenerator interface]]></title>
+        <id>http://news-web.php.net/php.internals/114833</id>
+        <link href="http://news-web.php.net/php.internals/114833"/>
+        <updated>2021-06-12T10:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Go Kudo]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zend Engine License in PHP source code]]></title>
         <id>http://news-web.php.net/php.internals/114832</id>
