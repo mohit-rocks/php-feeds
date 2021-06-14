@@ -6,6 +6,105 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114850",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114850",
+          "publishedOn": "2021-06-14T00:41:09.000Z",
+          "wordCount": 1962,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114849",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114849",
+          "publishedOn": "2021-06-14T00:20:41.000Z",
+          "wordCount": 566,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114848",
+          "author": null,
+          "description": "Matthew Brown",
+          "link": "http://news-web.php.net/php.internals/114848",
+          "publishedOn": "2021-06-13T21:30:06.000Z",
+          "wordCount": 458,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114847",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114847",
+          "publishedOn": "2021-06-13T20:12:07.000Z",
+          "wordCount": 276,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114846",
+          "author": null,
+          "description": "someniatko",
+          "link": "http://news-web.php.net/php.internals/114846",
+          "publishedOn": "2021-06-13T19:46:47.000Z",
+          "wordCount": 178,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114845",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114845",
+          "publishedOn": "2021-06-13T19:15:53.000Z",
+          "wordCount": 356,
+          "title": "Re:  [RFC] make Reflection*#setAccessible() no-op"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114844",
+          "author": null,
+          "description": "Marco Pivetta",
+          "link": "http://news-web.php.net/php.internals/114844",
+          "publishedOn": "2021-06-13T18:56:39.000Z",
+          "wordCount": 404,
+          "title": "Re:  [RFC] make Reflection*#setAccessible() no-op"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114843",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114843",
+          "publishedOn": "2021-06-13T18:46:12.000Z",
+          "wordCount": 358,
+          "title": "Re:  [RFC] make Reflection*#setAccessible() no-op"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114842",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114842",
+          "publishedOn": "2021-06-13T16:51:36.000Z",
+          "wordCount": 1254,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114841",
+          "author": null,
+          "description": "Marco Pivetta",
+          "link": "http://news-web.php.net/php.internals/114841",
+          "publishedOn": "2021-06-13T16:44:29.000Z",
+          "wordCount": 230,
+          "title": "[RFC] make Reflection*#setAccessible() no-op"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114840",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114840",
+          "publishedOn": "2021-06-13T06:46:35.000Z",
+          "wordCount": 932,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114839",
           "author": null,
           "description": "Lauri_Kenttä",

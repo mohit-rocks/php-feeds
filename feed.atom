@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T01:03:03.900Z</updated>
+    <updated>2021-06-14T00:59:24.615Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114850</id>
+        <link href="http://news-web.php.net/php.internals/114850"/>
+        <updated>2021-06-14T00:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114849</id>
+        <link href="http://news-web.php.net/php.internals/114849"/>
+        <updated>2021-06-14T00:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114848</id>
+        <link href="http://news-web.php.net/php.internals/114848"/>
+        <updated>2021-06-13T21:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Matthew Brown]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114847</id>
+        <link href="http://news-web.php.net/php.internals/114847"/>
+        <updated>2021-06-13T20:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114846</id>
+        <link href="http://news-web.php.net/php.internals/114846"/>
+        <updated>2021-06-13T19:46:47.000Z</updated>
+        <summary type="html"><![CDATA[someniatko]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] make Reflection*#setAccessible() no-op]]></title>
+        <id>http://news-web.php.net/php.internals/114845</id>
+        <link href="http://news-web.php.net/php.internals/114845"/>
+        <updated>2021-06-13T19:15:53.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] make Reflection*#setAccessible() no-op]]></title>
+        <id>http://news-web.php.net/php.internals/114844</id>
+        <link href="http://news-web.php.net/php.internals/114844"/>
+        <updated>2021-06-13T18:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Marco Pivetta]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] make Reflection*#setAccessible() no-op]]></title>
+        <id>http://news-web.php.net/php.internals/114843</id>
+        <link href="http://news-web.php.net/php.internals/114843"/>
+        <updated>2021-06-13T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114842</id>
+        <link href="http://news-web.php.net/php.internals/114842"/>
+        <updated>2021-06-13T16:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RFC] make Reflection*#setAccessible() no-op]]></title>
+        <id>http://news-web.php.net/php.internals/114841</id>
+        <link href="http://news-web.php.net/php.internals/114841"/>
+        <updated>2021-06-13T16:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Marco Pivetta]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114840</id>
+        <link href="http://news-web.php.net/php.internals/114840"/>
+        <updated>2021-06-13T06:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
         <id>http://news-web.php.net/php.internals/114839</id>
