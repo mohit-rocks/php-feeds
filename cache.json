@@ -6,6 +6,186 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114873",
+          "author": null,
+          "description": "Paul Dragoonis",
+          "link": "http://news-web.php.net/php.internals/114873",
+          "publishedOn": "2021-06-14T23:36:35.000Z",
+          "wordCount": 301,
+          "title": "Re:  Allow objects in define()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114872",
+          "author": null,
+          "description": "Claude Pache",
+          "link": "http://news-web.php.net/php.internals/114872",
+          "publishedOn": "2021-06-14T22:32:39.000Z",
+          "wordCount": 109,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114871",
+          "author": null,
+          "description": "Matthew Brown",
+          "link": "http://news-web.php.net/php.internals/114871",
+          "publishedOn": "2021-06-14T20:52:38.000Z",
+          "wordCount": 507,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114870",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114870",
+          "publishedOn": "2021-06-14T19:16:27.000Z",
+          "wordCount": 706,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114869",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114869",
+          "publishedOn": "2021-06-14T18:47:05.000Z",
+          "wordCount": 235,
+          "title": "Re:  Allow objects in define()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114868",
+          "author": null,
+          "description": "Rowan Tommins",
+          "link": "http://news-web.php.net/php.internals/114868",
+          "publishedOn": "2021-06-14T18:43:52.000Z",
+          "wordCount": 490,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114867",
+          "author": null,
+          "description": "Marco Pivetta",
+          "link": "http://news-web.php.net/php.internals/114867",
+          "publishedOn": "2021-06-14T16:02:03.000Z",
+          "wordCount": 146,
+          "title": "Re:  Allow objects in define()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114866",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114866",
+          "publishedOn": "2021-06-14T15:06:50.000Z",
+          "wordCount": 238,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114865",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114865",
+          "publishedOn": "2021-06-14T15:01:43.000Z",
+          "wordCount": 407,
+          "title": "Re:  Allow objects in define()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114864",
+          "author": null,
+          "description": "Marco Pivetta",
+          "link": "http://news-web.php.net/php.internals/114864",
+          "publishedOn": "2021-06-14T14:42:40.000Z",
+          "wordCount": 269,
+          "title": "Re:  Allow objects in define()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114863",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114863",
+          "publishedOn": "2021-06-14T14:35:00.000Z",
+          "wordCount": 184,
+          "title": "Allow objects in define()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114862",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114862",
+          "publishedOn": "2021-06-14T13:30:19.000Z",
+          "wordCount": 173,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114861",
+          "author": null,
+          "description": "Marco Pivetta",
+          "link": "http://news-web.php.net/php.internals/114861",
+          "publishedOn": "2021-06-14T13:29:59.000Z",
+          "wordCount": 403,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114860",
+          "author": null,
+          "description": "Thomas Nunninger",
+          "link": "http://news-web.php.net/php.internals/114860",
+          "publishedOn": "2021-06-14T13:27:47.000Z",
+          "wordCount": 329,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114859",
+          "author": null,
+          "description": "Matthew Brown",
+          "link": "http://news-web.php.net/php.internals/114859",
+          "publishedOn": "2021-06-14T13:06:08.000Z",
+          "wordCount": 192,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114858",
+          "author": null,
+          "description": "Dan Ackroyd",
+          "link": "http://news-web.php.net/php.internals/114858",
+          "publishedOn": "2021-06-14T12:29:53.000Z",
+          "wordCount": 795,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114857",
+          "author": null,
+          "description": "Dik Takken",
+          "link": "http://news-web.php.net/php.internals/114857",
+          "publishedOn": "2021-06-14T10:53:24.000Z",
+          "wordCount": 253,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114856",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114856",
+          "publishedOn": "2021-06-14T09:36:30.000Z",
+          "wordCount": 246,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114855",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114855",
+          "publishedOn": "2021-06-14T09:36:24.000Z",
+          "wordCount": 156,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114854",
+          "author": null,
+          "description": "Guilliam Xavier",
+          "link": "http://news-web.php.net/php.internals/114854",
+          "publishedOn": "2021-06-14T09:31:18.000Z",
+          "wordCount": 577,
+          "title": "Re:  Re: [RFC] Under Discussion: Add Random class andRandomNumberGenerator interface"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114850",
           "author": null,
           "description": "Mike Schinkel",
