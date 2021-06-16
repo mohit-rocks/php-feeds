@@ -6,6 +6,186 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114899",
+          "author": null,
+          "description": "Derick Rethans",
+          "link": "http://news-web.php.net/php.internals/114899",
+          "publishedOn": "2021-06-15T23:35:57.000Z",
+          "wordCount": 179,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allows any key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114898",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114898",
+          "publishedOn": "2021-06-15T23:19:14.000Z",
+          "wordCount": 159,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114897",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114897",
+          "publishedOn": "2021-06-15T23:11:27.000Z",
+          "wordCount": 302,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114896",
+          "author": null,
+          "description": "Jakub Zelenka",
+          "link": "http://news-web.php.net/php.internals/114896",
+          "publishedOn": "2021-06-15T21:46:23.000Z",
+          "wordCount": 350,
+          "title": "Re:  [RFC][Draft] Add json_encode indent parameter"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114895",
+          "author": null,
+          "description": "Joe Watkins",
+          "link": "http://news-web.php.net/php.internals/114895",
+          "publishedOn": "2021-06-15T21:11:54.000Z",
+          "wordCount": 312,
+          "title": "Re:  Rename Fiber::this() to Fiber::getCurrent()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114894",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114894",
+          "publishedOn": "2021-06-15T19:53:48.000Z",
+          "wordCount": 215,
+          "title": "Re:  Rename Fiber::this() to Fiber::getCurrent()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114893",
+          "author": null,
+          "description": "Aaron Piotrowski",
+          "link": "http://news-web.php.net/php.internals/114893",
+          "publishedOn": "2021-06-15T19:01:29.000Z",
+          "wordCount": 157,
+          "title": "Rename Fiber::this() to Fiber::getCurrent()"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114892",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114892",
+          "publishedOn": "2021-06-15T18:36:42.000Z",
+          "wordCount": 157,
+          "title": "Re:  [Vote] Short functions"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114891",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114891",
+          "publishedOn": "2021-06-15T16:30:20.000Z",
+          "wordCount": 508,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114890",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114890",
+          "publishedOn": "2021-06-15T15:06:06.000Z",
+          "wordCount": 299,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114889",
+          "author": null,
+          "description": "Côme Chilliet",
+          "link": "http://news-web.php.net/php.internals/114889",
+          "publishedOn": "2021-06-15T14:46:34.000Z",
+          "wordCount": 237,
+          "title": "Re:  Re: [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114888",
+          "author": null,
+          "description": "Marco Pivetta",
+          "link": "http://news-web.php.net/php.internals/114888",
+          "publishedOn": "2021-06-15T14:18:19.000Z",
+          "wordCount": 273,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114887",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114887",
+          "publishedOn": "2021-06-15T14:01:25.000Z",
+          "wordCount": 164,
+          "title": "[VOTE] ImmutableIterable (immutable, rewindable, allows anykey&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114886",
+          "author": null,
+          "description": "Hans Henrik Bergan",
+          "link": "http://news-web.php.net/php.internals/114886",
+          "publishedOn": "2021-06-15T13:54:09.000Z",
+          "wordCount": 777,
+          "title": "Re:  [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114885",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114885",
+          "publishedOn": "2021-06-15T12:23:50.000Z",
+          "wordCount": 690,
+          "title": "Re:  [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114884",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114884",
+          "publishedOn": "2021-06-15T10:53:47.000Z",
+          "wordCount": 310,
+          "title": "Re: [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114883",
+          "author": null,
+          "description": "Hans Henrik Bergan",
+          "link": "http://news-web.php.net/php.internals/114883",
+          "publishedOn": "2021-06-15T10:47:56.000Z",
+          "wordCount": 556,
+          "title": "Re:  [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114882",
+          "author": null,
+          "description": "Rowan Tommins",
+          "link": "http://news-web.php.net/php.internals/114882",
+          "publishedOn": "2021-06-15T10:37:31.000Z",
+          "wordCount": 205,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114881",
+          "author": null,
+          "description": "Christoph M. Becker",
+          "link": "http://news-web.php.net/php.internals/114881",
+          "publishedOn": "2021-06-15T10:33:30.000Z",
+          "wordCount": 237,
+          "title": "Re:  [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114880",
+          "author": null,
+          "description": "Joe Watkins",
+          "link": "http://news-web.php.net/php.internals/114880",
+          "publishedOn": "2021-06-15T09:54:53.000Z",
+          "wordCount": 373,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114873",
           "author": null,
           "description": "Paul Dragoonis",
@@ -543,6 +723,15 @@
       "feedUrl": "https://stitcher.io/rss",
       "siteUrl": "https://www.stitcher.io/rss",
       "articles": [
+        {
+          "id": "https://stitcher.io/blog/a-new-major-version-of-laravel-event-sourcing",
+          "author": null,
+          "description": "<p>Today, we released a new version of <a target=\"_blank\" href=\"https://github.com/spatie/laravel-event-sourcing\">spatie/laravel-event-sourcing</a>, version 5 is probably one of the largest releases since the beginning of the package, we've worked several months on it and have been testing it extensively already in our own projects.</p>\n<p>Credit where credit is due, many new features were inspired by <a target=\"_blank\" href=\"https://docs.axoniq.io/reference-guide/\">Axon</a>,<br />\na popular event sourcing framework in the Java world, and several people pitched in during the development process.</p>\n<p>In this post, I'll walk you through all significant changes, but first I want to mention the course that we've built at Spatie over the last months about event sourcing. If you're working on an event sourced project or thinking about starting one, this course will be of great help. Check it out on <a target=\"_blank\" href=\"https://event-sourcing-laravel.com/\">https://event-sourcing-laravel.com/</a>!</p>\n<p><div class=\"like-container\">\n    <div class=\"like placeholder\">\n        👍\n    </div>\n    <div class=\"like unliked hidden\">\n        👍\n    </div>\n    <div class=\"like liked hidden\">\n        👍 <span class=\"counter\">0</span>\n    </div>\n</div>\n</p>\n<h3 id=\"consistent-event-handling\"><a href=\"#consistent-event-handling\" class=\"heading-anchor\">#</a> Consistent event handling</h3>\n<p>If you've used previous versions of our package, you might have struggled with how event handlers were registered across classes. Aggregate roots required you to write <code>applyEventName</code> functions, while projectors and reactors had an explicit event mapping.</p>\n<p>Whatever class your writing will now register event handlers the same way: by looking at the type of the event. You don't need any more configuration or naming conventions anymore.</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">CartAggregateRoot</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">AggregateRoot</span>\n</span>{\n    <span class=\"hljs-comment\">// …</span>\n    \n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">onCartAdded</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">CartAdded</span> $event)</span>: <span class=\"hljs-title\">void</span>\n    </span>{\n        <span class=\"hljs-comment\">// Any `CartAdded` event will automatically be matched to this handler</span>\n    }\n}</code></pre>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">CartProjector</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">Projector</span>\n</span>{\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">onCartAdded</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">CartAdded</span> $event)</span>: <span class=\"hljs-title\">void</span>\n    </span>{\n        <span class=\"hljs-comment\">// The same goes for projectors and reactors.</span>\n    }\n}</code></pre>\n<h3 id=\"event-queries\"><a href=\"#event-queries\" class=\"heading-anchor\">#</a> Event Queries</h3>\n<p>Event queries are a new feature that allow you to easily query an event stream without building database projections. You can think of them as in-memory projections that are rebuilt every time you call them.</p>\n<p>Here's an example of it in action:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">EarningsForProductAndPeriod</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">EventQuery</span>\n</span>{\n    <span class=\"hljs-highlight  keyword\"><span class=\"hljs-keyword\">private</span></span> <span class=\"hljs-highlight  type\">int</span> <span class=\"hljs-highlight  prop\">$totalPrice</span> = <span class=\"hljs-number\">0</span>;\n    \n    <span class=\"hljs-highlight  keyword\"><span class=\"hljs-keyword\">public</span></span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">__construct</span><span class=\"hljs-params\">(\n        <span class=\"hljs-highlight  keyword\">private</span> <span class=\"hljs-highlight  type\">Period</span> <span class=\"hljs-highlight  prop\">$period</span>,\n        <span class=\"hljs-highlight  keyword\">private</span> <span class=\"hljs-highlight  type\">Collection</span> <span class=\"hljs-highlight  prop\">$products</span>\n    )</span> </span>{\n        <span class=\"hljs-highlight  type\">EloquentStoredEvent</span>::<span class=\"hljs-highlight  prop\">query</span>()\n            -&gt;<span class=\"hljs-highlight  prop\">whereEvent</span>(<span class=\"hljs-highlight  type\">OrderCreated</span>::class)\n            -&gt;<span class=\"hljs-highlight  prop\">whereDate</span>(<span class=\"hljs-string\">'created_at'</span>, <span class=\"hljs-string\">'&gt;='</span>, <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">period</span>-&gt;<span class=\"hljs-highlight  prop\">getStart</span>())\n            -&gt;<span class=\"hljs-highlight  prop\">whereDate</span>(<span class=\"hljs-string\">'created_at'</span>, <span class=\"hljs-string\">'&lt;='</span>, <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">period</span>-&gt;<span class=\"hljs-highlight  prop\">getEnd</span>())\n            -&gt;<span class=\"hljs-highlight  prop\">cursor</span>()\n            -&gt;<span class=\"hljs-highlight  prop\">each</span>(\n                <span class=\"hljs-highlight  keyword\">fn</span> (<span class=\"hljs-highlight  type\">EloquentStoredEvent</span> $event) =&gt; <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">apply</span>($event)\n            );\n    }\n\n    <span class=\"hljs-keyword\">protected</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">applyOrderCreated</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">OrderCreated</span> $orderCreated)</span>: <span class=\"hljs-title\">void</span> \n    </span>{\n        $orderLines = <span class=\"hljs-highlight  prop\">collect</span>($orderCreated-&gt;<span class=\"hljs-highlight  prop\">orderData</span>-&gt;<span class=\"hljs-highlight  prop\">orderLineData</span>);\n\n        $totalPriceForOrder = $orderLines\n            -&gt;<span class=\"hljs-highlight  prop\">filter</span>(<span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">OrderLineData</span> $orderLineData)</span> </span>{\n                <span class=\"hljs-highlight  keyword\"><span class=\"hljs-keyword\">return</span></span> <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">products</span>-&gt;<span class=\"hljs-highlight  prop\">first</span>(\n                    <span class=\"hljs-highlight  keyword\">fn</span>(<span class=\"hljs-highlight  type\">Product</span> $product) =&gt; $orderLineData-&gt;<span class=\"hljs-highlight  prop\">productEquals</span>($product)\n                ) !== <span class=\"hljs-keyword\">null</span>;\n            })\n            -&gt;<span class=\"hljs-highlight  prop\">sum</span>(\n                <span class=\"hljs-highlight  keyword\">fn</span>(<span class=\"hljs-highlight  type\">OrderLineData</span> $orderLineData) =&gt; $orderLineData-&gt;<span class=\"hljs-highlight  prop\">totalPriceIncludingVat</span>\n            );\n\n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">totalPrice</span> += $totalPriceForOrder;\n    }\n}</code></pre>\n<p>Note that these examples come from the <a target=\"_blank\" href=\"https://event-sourcing-laravel.com/\">Event Sourcing in Laravel</a> book.</p>\n<h3 id=\"aggregate-partials\"><a href=\"#aggregate-partials\" class=\"heading-anchor\">#</a> Aggregate Partials</h3>\n<p>Aggregate partials allow you to split large aggregate roots into separate classes, while still keeping everything contained within the same aggregate. Partials can record and apply events just like an aggregate root, and can share state between them and their associated aggregate root.</p>\n<p>Here's an example of an aggregate partial that handles everything related to item management within a shopping cart:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">CartItems</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">AggregatePartial</span>\n</span>{\n    <span class=\"hljs-comment\">// …</span>\n    \n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">addItem</span><span class=\"hljs-params\">(\n        <span class=\"hljs-highlight  type\">string</span> $cartItemUuid, \n        <span class=\"hljs-highlight  type\">Product</span> $product, \n        <span class=\"hljs-highlight  type\">int</span> $amount\n    )</span>: <span class=\"hljs-title\">self</span> </span>{\n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">recordThat</span>(<span class=\"hljs-keyword\">new</span> <span class=\"hljs-highlight  type\">CartItemAdded</span>(\n            <span class=\"hljs-highlight  prop\">cartItemUuid</span>: $cartItemUuid,\n            <span class=\"hljs-highlight  prop\">productUuid</span>: $product-&gt;<span class=\"hljs-highlight  prop\">uuid</span>,\n            <span class=\"hljs-highlight  prop\">amount</span>: $amount,\n        ));\n\n        <span class=\"hljs-keyword\">return</span> <span class=\"hljs-keyword\">$this</span>;\n    }\n\n    <span class=\"hljs-keyword\">protected</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">applyCartItemAdded</span><span class=\"hljs-params\">(\n        <span class=\"hljs-highlight  type\">CartItemAdded</span> $cartItemAdded\n    )</span>: <span class=\"hljs-title\">void</span> </span>{\n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">cartItems</span>[$cartItemAdded-&gt;<span class=\"hljs-highlight  prop\">cartItemUuid</span>] = <span class=\"hljs-keyword\">null</span>;\n    }\n}</code></pre>\n<p>And this is how the cart aggregate root would use it:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">CartAggregateRoot</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">AggregateRoot</span>\n</span>{\n    <span class=\"hljs-keyword\">protected</span> <span class=\"hljs-highlight  type\">CartItems</span> <span class=\"hljs-highlight  prop\">$cartItems</span>;\n\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">__construct</span><span class=\"hljs-params\">()</span>\n    </span>{\n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">cartItems</span> = <span class=\"hljs-keyword\">new</span> <span class=\"hljs-highlight  type\">CartItems</span>(<span class=\"hljs-keyword\">$this</span>);\n    }\n\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">addItem</span><span class=\"hljs-params\">(\n        <span class=\"hljs-highlight  type\">string</span> $cartItemUuid,\n        <span class=\"hljs-highlight  type\">Product</span> $product,\n        <span class=\"hljs-highlight  type\">int</span> $amount\n    )</span>: <span class=\"hljs-title\">self</span> </span>{\n        <span class=\"hljs-keyword\">if</span> (! <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">state</span>-&gt;<span class=\"hljs-highlight  prop\">changesAllowed</span>()) {\n            <span class=\"hljs-keyword\">throw</span> <span class=\"hljs-keyword\">new</span> <span class=\"hljs-highlight  type\">CartCannotBeChanged</span>();\n        }\n\n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">cartItems</span>-&gt;<span class=\"hljs-highlight  prop\">addItem</span>($cartItemUuid, $product, $amount);\n\n        <span class=\"hljs-keyword\">return</span> <span class=\"hljs-keyword\">$this</span>;\n    }</code></pre>\n<p>Aggregate partials come with the same testing capabilities as aggregate roots, and are a useful way of keeping aggregate-related code maintainable.</p>\n<h3 id=\"command-bus\"><a href=\"#command-bus\" class=\"heading-anchor\">#</a> Command bus</h3>\n<p>We've added a command bus that can automatically map commands to handlers on aggregate roots:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-keyword\">namespace</span> <span class=\"hljs-highlight  type\"><span class=\"hljs-title\">Spatie</span>\\<span class=\"hljs-title\">Shop</span>\\<span class=\"hljs-title\">Cart</span>\\<span class=\"hljs-title\">Commands</span></span>;\n\n<span class=\"hljs-keyword\">use</span> <span class=\"hljs-highlight  type\"><span class=\"hljs-title\">Spatie</span>\\<span class=\"hljs-title\">Shop</span>\\<span class=\"hljs-title\">Support</span>\\<span class=\"hljs-title\">EventSourcing</span>\\<span class=\"hljs-title\">Attributes</span>\\<span class=\"hljs-title\">AggregateUuid</span></span>;\n<span class=\"hljs-keyword\">use</span> <span class=\"hljs-highlight  type\"><span class=\"hljs-title\">Spatie</span>\\<span class=\"hljs-title\">Shop</span>\\<span class=\"hljs-title\">Support</span>\\<span class=\"hljs-title\">EventSourcing</span>\\<span class=\"hljs-title\">Attributes</span>\\<span class=\"hljs-title\">HandledBy</span></span>;\n<span class=\"hljs-keyword\">use</span> <span class=\"hljs-highlight  type\"><span class=\"hljs-title\">Spatie</span>\\<span class=\"hljs-title\">Shop</span>\\<span class=\"hljs-title\">Support</span>\\<span class=\"hljs-title\">EventSourcing</span>\\<span class=\"hljs-title\">Commands</span>\\<span class=\"hljs-title\">Command</span></span>;\n\n<span class=\"hljs-comment\">#[<span class=\"hljs-highlight  type\">HandledBy</span>(<span class=\"hljs-highlight  type\">CartAggregateRoot</span><span class=\"hljs-highlight  text\">::class</span>)]</span>\n<span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">AddCartItem</span> <span class=\"hljs-keyword\">implements</span> <span class=\"hljs-title\">Command</span>\n</span>{\n    <span class=\"hljs-highlight  keyword\"><span class=\"hljs-keyword\">public</span></span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">__construct</span><span class=\"hljs-params\">(\n        <span class=\"hljs-highlight  comment\">#[<span class=\"hljs-highlight  type\">AggregateUuid</span>]</span> <span class=\"hljs-highlight  keyword\">public</span> <span class=\"hljs-highlight  type\">string</span> <span class=\"hljs-highlight  prop\">$cartUuid</span>,\n        <span class=\"hljs-highlight  keyword\">public</span> <span class=\"hljs-highlight  type\">string</span> <span class=\"hljs-highlight  prop\">$cartItemUuid</span>,\n        <span class=\"hljs-highlight  keyword\">public</span> <span class=\"hljs-highlight  type\">Product</span> <span class=\"hljs-highlight  prop\">$product</span>,\n        <span class=\"hljs-highlight  keyword\">public</span> <span class=\"hljs-highlight  type\">int</span> <span class=\"hljs-highlight  prop\">$amount</span>,\n    )</span> </span>{\n    }\n}</code></pre>\n<p>Whenever this command is dispatched, it will automatically be captured and handled by the associated aggregate root. It even works with aggregate partials:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">CartItems</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">AggregatePartial</span>\n</span>{\n    <span class=\"hljs-comment\">// …</span>\n    \n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">addItem</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">AddCartItem</span> $addCartItem)</span>: <span class=\"hljs-title\">self</span>\n    </span>{\n        <span class=\"hljs-comment\">// …</span>\n    }\n    \n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">removeItem</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">RemoveCartItem</span> $removeCartItem)</span>: <span class=\"hljs-title\">self</span>\n    </span>{\n        <span class=\"hljs-comment\">// …</span>\n    }\n}    </code></pre>\n<hr />\n<p>Besides these new features, there are also some quality-of-life changes across the board:</p>\n<ul>\n<li>The minimum required PHP version is now 8.0</li>\n<li>The minimum required Laravel version is now 8.0</li>\n<li>There's better support for <a target=\"_blank\" href=\"https://github.com/spatie/laravel-event-sourcing/discussions/214\">handling concurrency</a> within the same aggregate root instance</li>\n<li>There's a way to <a target=\"_blank\" href=\"https://github.com/spatie/laravel-event-sourcing/discussions/181\">fake reactors and projectors</a>\n</li>\n<li>There's an <a target=\"_blank\" href=\"https://github.com/spatie/laravel-event-sourcing/blob/main/src/StoredEvents/Models/EloquentStoredEventQueryBuilder.php\">improved event query builder</a>\n</li>\n<li>And <a target=\"_blank\" href=\"https://github.com/spatie/laravel-event-sourcing/blob/v5/CHANGELOG.md\">more</a>\n</li>\n</ul>\n<hr />\n<p>All in all, I'm very exited for this new release. All the new features are also used in our real-life projects, so we know from experience how useful they are in complex applications. Of course, a blog post can't discuss all the details and the thought process behind this new version, so make sure to read <a target=\"_blank\" href=\"https://event-sourcing-laravel.com/\">the book</a> if you want in-depth knowledge about all of these features, and more.</p>\n<p><div class=\"author\">\n    Noticed a tpyo? You can submit a\n    <a href=\"https://github.com/brendt/stitcher.io\" target=\"_blank\" rel=\"noopener noreferrer\">PR</a> to fix it.\n\n    If you want to stay up to date about what's happening on this blog, you can follow me\n    <a href=\"https://mobile.twitter.com/brendt_gd\" target=\"_blank\" rel=\"noopener noreferrer\">on Twitter</a> or subscribe to my newsletter:\n\n    <form action=\"https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0\" method=\"post\" class=\"newsletter-form\">\n        <label for=\"newsletter-email-1\">Email</label>\n        <input type=\"email\" name=\"email\" id=\"newsletter-email-1\"/>\n        <button type=\"submit\" class=\"cta cta-small\">Subscribe</button>\n    </form>\n</div>\n</p>",
+          "link": "https://stitcher.io/blog/a-new-major-version-of-laravel-event-sourcing",
+          "publishedOn": "2021-06-15T00:00:00.000Z",
+          "wordCount": 934,
+          "title": "A new major version of Laravel Event Sourcing"
+        },
         {
           "id": "https://stitcher.io/blog/why-we-need-multi-line-short-closures-in-php",
           "author": null,
