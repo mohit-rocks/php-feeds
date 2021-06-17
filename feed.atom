@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T01:01:12.807Z</updated>
+    <updated>2021-06-17T00:59:23.194Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114913</id>
+        <link href="http://news-web.php.net/php.internals/114913"/>
+        <updated>2021-06-16T21:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114912</id>
+        <link href="http://news-web.php.net/php.internals/114912"/>
+        <updated>2021-06-16T21:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Bruce Weirdan]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114911</id>
+        <link href="http://news-web.php.net/php.internals/114911"/>
+        <updated>2021-06-16T21:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114910</id>
+        <link href="http://news-web.php.net/php.internals/114910"/>
+        <updated>2021-06-16T20:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Dik Takken]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114909</id>
+        <link href="http://news-web.php.net/php.internals/114909"/>
+        <updated>2021-06-16T17:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)]]></title>
+        <id>http://news-web.php.net/php.internals/114908</id>
+        <link href="http://news-web.php.net/php.internals/114908"/>
+        <updated>2021-06-16T17:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Levi Morrison via internals]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/114907</id>
+        <link href="http://news-web.php.net/php.internals/114907"/>
+        <updated>2021-06-16T16:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)]]></title>
+        <id>http://news-web.php.net/php.internals/114906</id>
+        <link href="http://news-web.php.net/php.internals/114906"/>
+        <updated>2021-06-16T13:57:47.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] New in initializers]]></title>
+        <id>http://news-web.php.net/php.internals/114905</id>
+        <link href="http://news-web.php.net/php.internals/114905"/>
+        <updated>2021-06-16T11:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Deprecations for PHP 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/114904</id>
+        <link href="http://news-web.php.net/php.internals/114904"/>
+        <updated>2021-06-16T11:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)]]></title>
+        <id>http://news-web.php.net/php.internals/114903</id>
+        <link href="http://news-web.php.net/php.internals/114903"/>
+        <updated>2021-06-16T09:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Nikita Popov]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] New in initializers]]></title>
+        <id>http://news-web.php.net/php.internals/114902</id>
+        <link href="http://news-web.php.net/php.internals/114902"/>
+        <updated>2021-06-16T08:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Nikita Popov]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Deprecations for PHP 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/114901</id>
+        <link href="http://news-web.php.net/php.internals/114901"/>
+        <updated>2021-06-16T03:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] New in initializers]]></title>
+        <id>http://news-web.php.net/php.internals/114900</id>
+        <link href="http://news-web.php.net/php.internals/114900"/>
+        <updated>2021-06-16T03:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re:  [VOTE] ImmutableIterable (immutable, rewindable, allows any key&repeating keys)]]></title>
         <id>http://news-web.php.net/php.internals/114899</id>

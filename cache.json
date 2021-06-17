@@ -6,6 +6,132 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114913",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114913",
+          "publishedOn": "2021-06-16T21:29:36.000Z",
+          "wordCount": 230,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114912",
+          "author": null,
+          "description": "Bruce Weirdan",
+          "link": "http://news-web.php.net/php.internals/114912",
+          "publishedOn": "2021-06-16T21:18:52.000Z",
+          "wordCount": 154,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114911",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114911",
+          "publishedOn": "2021-06-16T21:01:08.000Z",
+          "wordCount": 349,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114910",
+          "author": null,
+          "description": "Dik Takken",
+          "link": "http://news-web.php.net/php.internals/114910",
+          "publishedOn": "2021-06-16T20:13:04.000Z",
+          "wordCount": 488,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114909",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114909",
+          "publishedOn": "2021-06-16T17:24:46.000Z",
+          "wordCount": 352,
+          "title": "Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114908",
+          "author": null,
+          "description": "Levi Morrison via internals",
+          "link": "http://news-web.php.net/php.internals/114908",
+          "publishedOn": "2021-06-16T17:09:46.000Z",
+          "wordCount": 198,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114907",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114907",
+          "publishedOn": "2021-06-16T16:16:28.000Z",
+          "wordCount": 164,
+          "title": "[Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114906",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114906",
+          "publishedOn": "2021-06-16T13:57:47.000Z",
+          "wordCount": 370,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114905",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114905",
+          "publishedOn": "2021-06-16T11:47:17.000Z",
+          "wordCount": 677,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114904",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114904",
+          "publishedOn": "2021-06-16T11:38:39.000Z",
+          "wordCount": 305,
+          "title": "Re:  [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114903",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114903",
+          "publishedOn": "2021-06-16T09:05:43.000Z",
+          "wordCount": 359,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114902",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114902",
+          "publishedOn": "2021-06-16T08:16:37.000Z",
+          "wordCount": 872,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114901",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114901",
+          "publishedOn": "2021-06-16T03:59:08.000Z",
+          "wordCount": 221,
+          "title": "Re:  [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114900",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114900",
+          "publishedOn": "2021-06-16T03:46:03.000Z",
+          "wordCount": 361,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114899",
           "author": null,
           "description": "Derick Rethans",
