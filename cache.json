@@ -6,6 +6,186 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114936",
+          "author": null,
+          "description": "Gabriel Caruso",
+          "link": "http://news-web.php.net/php.internals/114936",
+          "publishedOn": "2021-06-17T20:14:02.000Z",
+          "wordCount": 230,
+          "title": "PHP 8.0.8RC1 Available for testing"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114935",
+          "author": null,
+          "description": "Mark Tomlin",
+          "link": "http://news-web.php.net/php.internals/114935",
+          "publishedOn": "2021-06-17T18:49:04.000Z",
+          "wordCount": 598,
+          "title": "Re:  [RFC][DISCUSSION] Match expression v2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114934",
+          "author": null,
+          "description": "G. P. B.",
+          "link": "http://news-web.php.net/php.internals/114934",
+          "publishedOn": "2021-06-17T18:48:20.000Z",
+          "wordCount": 162,
+          "title": "Re:  [VOTE] Pure intersection types"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114933",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114933",
+          "publishedOn": "2021-06-17T16:48:29.000Z",
+          "wordCount": 656,
+          "title": "Re:  [VOTE] ImmutableIterable (immutable, rewindable, allowsany key&repeating keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114932",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114932",
+          "publishedOn": "2021-06-17T15:51:00.000Z",
+          "wordCount": 636,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114931",
+          "author": null,
+          "description": "Côme Chilliet",
+          "link": "http://news-web.php.net/php.internals/114931",
+          "publishedOn": "2021-06-17T14:45:39.000Z",
+          "wordCount": 483,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114930",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114930",
+          "publishedOn": "2021-06-17T13:53:38.000Z",
+          "wordCount": 437,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114929",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114929",
+          "publishedOn": "2021-06-17T13:52:17.000Z",
+          "wordCount": 397,
+          "title": "Re:__[VOTE]_ImmutableIterable_(immutable,_rewindable,_allows_any_key&repeating_keys)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114928",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114928",
+          "publishedOn": "2021-06-17T13:37:23.000Z",
+          "wordCount": 434,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114927",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114927",
+          "publishedOn": "2021-06-17T13:30:43.000Z",
+          "wordCount": 243,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114926",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114926",
+          "publishedOn": "2021-06-17T10:30:03.000Z",
+          "wordCount": 1046,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114925",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114925",
+          "publishedOn": "2021-06-17T10:08:42.000Z",
+          "wordCount": 412,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114924",
+          "author": null,
+          "description": "Alexandru_Pătrănescu",
+          "link": "http://news-web.php.net/php.internals/114924",
+          "publishedOn": "2021-06-17T10:03:20.000Z",
+          "wordCount": 361,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114923",
+          "author": null,
+          "description": "Côme Chilliet",
+          "link": "http://news-web.php.net/php.internals/114923",
+          "publishedOn": "2021-06-17T09:53:23.000Z",
+          "wordCount": 298,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114922",
+          "author": null,
+          "description": "Dik Takken",
+          "link": "http://news-web.php.net/php.internals/114922",
+          "publishedOn": "2021-06-17T09:48:13.000Z",
+          "wordCount": 167,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114921",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114921",
+          "publishedOn": "2021-06-17T09:31:46.000Z",
+          "wordCount": 236,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114920",
+          "author": null,
+          "description": "Nicolas Grekas",
+          "link": "http://news-web.php.net/php.internals/114920",
+          "publishedOn": "2021-06-17T09:14:15.000Z",
+          "wordCount": 848,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114919",
+          "author": null,
+          "description": "Alexandru_Pătrănescu",
+          "link": "http://news-web.php.net/php.internals/114919",
+          "publishedOn": "2021-06-17T08:13:54.000Z",
+          "wordCount": 424,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114918",
+          "author": null,
+          "description": "Côme Chilliet",
+          "link": "http://news-web.php.net/php.internals/114918",
+          "publishedOn": "2021-06-17T08:01:52.000Z",
+          "wordCount": 201,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114917",
+          "author": null,
+          "description": "Côme Chilliet",
+          "link": "http://news-web.php.net/php.internals/114917",
+          "publishedOn": "2021-06-17T07:54:26.000Z",
+          "wordCount": 332,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114913",
           "author": null,
           "description": "Craig Francis",
