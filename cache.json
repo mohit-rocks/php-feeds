@@ -6,6 +6,186 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114969",
+          "author": null,
+          "description": "Patrick ALLAERT",
+          "link": "http://news-web.php.net/php.internals/114969",
+          "publishedOn": "2021-06-19T00:15:54.000Z",
+          "wordCount": 639,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114968",
+          "author": null,
+          "description": "Benjamin Eberlei",
+          "link": "http://news-web.php.net/php.internals/114968",
+          "publishedOn": "2021-06-18T23:41:03.000Z",
+          "wordCount": 538,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114967",
+          "author": null,
+          "description": "Rowan Tommins",
+          "link": "http://news-web.php.net/php.internals/114967",
+          "publishedOn": "2021-06-18T23:03:40.000Z",
+          "wordCount": 271,
+          "title": "Re:  Re: [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114966",
+          "author": null,
+          "description": "Derick Rethans",
+          "link": "http://news-web.php.net/php.internals/114966",
+          "publishedOn": "2021-06-18T21:16:49.000Z",
+          "wordCount": 462,
+          "title": "Re:  Re: [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114965",
+          "author": null,
+          "description": "Rowan Tommins",
+          "link": "http://news-web.php.net/php.internals/114965",
+          "publishedOn": "2021-06-18T18:33:09.000Z",
+          "wordCount": 377,
+          "title": "Re:  Re: [RFC] Deprecations for PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114964",
+          "author": null,
+          "description": "Joe Watkins",
+          "link": "http://news-web.php.net/php.internals/114964",
+          "publishedOn": "2021-06-18T17:49:37.000Z",
+          "wordCount": 631,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114963",
+          "author": null,
+          "description": "Joe Watkins",
+          "link": "http://news-web.php.net/php.internals/114963",
+          "publishedOn": "2021-06-18T17:48:28.000Z",
+          "wordCount": 587,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114962",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114962",
+          "publishedOn": "2021-06-18T17:22:56.000Z",
+          "wordCount": 454,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114961",
+          "author": null,
+          "description": "Pierre",
+          "link": "http://news-web.php.net/php.internals/114961",
+          "publishedOn": "2021-06-18T16:20:36.000Z",
+          "wordCount": 504,
+          "title": "Re:  Simple support question, about object equality"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114960",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114960",
+          "publishedOn": "2021-06-18T16:08:37.000Z",
+          "wordCount": 399,
+          "title": "Re:  Simple support question, about object equality"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114959",
+          "author": null,
+          "description": "Pierre",
+          "link": "http://news-web.php.net/php.internals/114959",
+          "publishedOn": "2021-06-18T15:58:22.000Z",
+          "wordCount": 116,
+          "title": "Re:  Simple support question, about object equality"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114958",
+          "author": null,
+          "description": "Pierre",
+          "link": "http://news-web.php.net/php.internals/114958",
+          "publishedOn": "2021-06-18T15:56:42.000Z",
+          "wordCount": 318,
+          "title": "Simple support question, about object equality"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114957",
+          "author": null,
+          "description": "Guilliam Xavier",
+          "link": "http://news-web.php.net/php.internals/114957",
+          "publishedOn": "2021-06-18T15:03:39.000Z",
+          "wordCount": 388,
+          "title": "Re:  [RFC][DISCUSSION] Match expression v2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114956",
+          "author": null,
+          "description": "Bruce Weirdan",
+          "link": "http://news-web.php.net/php.internals/114956",
+          "publishedOn": "2021-06-18T14:47:16.000Z",
+          "wordCount": 279,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114955",
+          "author": null,
+          "description": "Дмитрий Елисеев",
+          "link": "http://news-web.php.net/php.internals/114955",
+          "publishedOn": "2021-06-18T14:35:48.000Z",
+          "wordCount": 214,
+          "title": "Checking that Closure is static"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114954",
+          "author": null,
+          "description": "Dik Takken",
+          "link": "http://news-web.php.net/php.internals/114954",
+          "publishedOn": "2021-06-18T14:31:46.000Z",
+          "wordCount": 344,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114953",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114953",
+          "publishedOn": "2021-06-18T14:23:53.000Z",
+          "wordCount": 317,
+          "title": "Re:  [RFC][DISCUSSION] Match expression v2"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114952",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114952",
+          "publishedOn": "2021-06-18T14:08:33.000Z",
+          "wordCount": 579,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114951",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114951",
+          "publishedOn": "2021-06-18T13:52:25.000Z",
+          "wordCount": 361,
+          "title": "Re:  Re: [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114950",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114950",
+          "publishedOn": "2021-06-18T12:32:22.000Z",
+          "wordCount": 242,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114936",
           "author": null,
           "description": "Gabriel Caruso",
@@ -1029,6 +1209,15 @@
       "feedUrl": "https://stitcher.io/rss",
       "siteUrl": "https://www.stitcher.io/rss",
       "articles": [
+        {
+          "id": "https://stitcher.io/blog/what-about-config-builders",
+          "author": null,
+          "description": "<p>I've been tinkering with a hobby project lately: a small framework to get more familiar with <a href=\"/blog/new-in-php-8\">PHP 8</a>, and try out some random ideas floating in my head. It's nothing too serious, but it's a fun exercise.</p>\n<p>Most of these ideas are born from my daily experience with Laravel, and more specifically from the little annoyances I have with it. Now, don't get me wrong: I think Laravel is one of the best frameworks out there when it comes to modern PHP development and it's only natural that it has a quirk here and there, after a decade of development.</p>\n<p>So this definitely isn't a Laravel-rant, rather it's just a thought experiment in dealing with one of those little annoyances.</p>\n<p><div class=\"ad-container\">\n    <script async type=\"text/javascript\" src=\"//cdn.carbonads.com/carbon.js?serve=CK7ICK3W&placement=stitcherio\" id=\"_carbonads_js\"></script>\n</div>\n</p>\n<p>So, Laravel has these PHP config files, right. Here's one example (this one is <code>auth.php</code>, if you're wondering):</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-meta\">&lt;?php</span>\n\n<span class=\"hljs-keyword\">return</span> [\n\n    <span class=\"hljs-comment\">/*\n    |--------------------------------------------------------------------------\n    | Authentication Defaults\n    |--------------------------------------------------------------------------\n    |\n    | This option controls the default authentication \"guard\" and password\n    | reset options for your application. You may change these defaults\n    | as required, but they're a perfect start for most applications.\n    |\n    */</span>\n\n    <span class=\"hljs-string\">'defaults'</span> =&gt; [\n        <span class=\"hljs-string\">'guard'</span> =&gt; <span class=\"hljs-string\">'web'</span>,\n        <span class=\"hljs-string\">'passwords'</span> =&gt; <span class=\"hljs-string\">'users'</span>,\n    ],\n\n    <span class=\"hljs-comment\">/*\n    |--------------------------------------------------------------------------\n    | Authentication Guards\n    |--------------------------------------------------------------------------\n    |\n    | Next, you may define every authentication guard for your application.\n    | Of course, a great default configuration has been defined for you\n    | here which uses session storage and the Eloquent user provider.\n    |\n    | All authentication drivers have a user provider. This defines how the\n    | users are actually retrieved out of your database or other storage\n    | mechanisms used by this application to persist your user's data.\n    |\n    | Supported: \"session\", \"token\"\n    |\n    */</span>\n\n    <span class=\"hljs-string\">'guards'</span> =&gt; [\n        <span class=\"hljs-string\">'web'</span> =&gt; [\n            <span class=\"hljs-string\">'driver'</span> =&gt; <span class=\"hljs-string\">'session'</span>,\n            <span class=\"hljs-string\">'provider'</span> =&gt; <span class=\"hljs-string\">'users'</span>,\n        ],\n\n        <span class=\"hljs-string\">'api'</span> =&gt; [\n            <span class=\"hljs-string\">'driver'</span> =&gt; <span class=\"hljs-string\">'token'</span>,\n            <span class=\"hljs-string\">'provider'</span> =&gt; <span class=\"hljs-string\">'users'</span>,\n            <span class=\"hljs-string\">'hash'</span> =&gt; <span class=\"hljs-keyword\">false</span>,\n        ],\n    ],\n\n    <span class=\"hljs-comment\">/*\n    |--------------------------------------------------------------------------\n    | User Providers\n    |--------------------------------------------------------------------------\n    |\n    | All authentication drivers have a user provider. This defines how the\n    | users are actually retrieved out of your database or other storage\n    | mechanisms used by this application to persist your user's data.\n    |\n    | If you have multiple user tables or models you may configure multiple\n    | sources which represent each model / table. These sources may then\n    | be assigned to any extra authentication guards you have defined.\n    |\n    | Supported: \"database\", \"eloquent\"\n    |\n    */</span>\n\n    <span class=\"hljs-string\">'providers'</span> =&gt; [\n        <span class=\"hljs-string\">'users'</span> =&gt; [\n            <span class=\"hljs-string\">'driver'</span> =&gt; <span class=\"hljs-string\">'eloquent'</span>,\n            <span class=\"hljs-string\">'model'</span> =&gt; App\\Models\\User::class,\n        ],\n\n        <span class=\"hljs-comment\">// 'users' =&gt; [</span>\n        <span class=\"hljs-comment\">//     'driver' =&gt; 'database',</span>\n        <span class=\"hljs-comment\">//     'table' =&gt; 'users',</span>\n        <span class=\"hljs-comment\">// ],</span>\n    ],\n\n    <span class=\"hljs-comment\">/*\n    |--------------------------------------------------------------------------\n    | Resetting Passwords\n    |--------------------------------------------------------------------------\n    |\n    | You may specify multiple password reset configurations if you have more\n    | than one user table or model in the application and you want to have\n    | separate password reset settings based on the specific user types.\n    |\n    | The expire time is the number of minutes that the reset token should be\n    | considered valid. This security feature keeps tokens short-lived so\n    | they have less time to be guessed. You may change this as needed.\n    |\n    */</span>\n\n    <span class=\"hljs-string\">'passwords'</span> =&gt; [\n        <span class=\"hljs-string\">'users'</span> =&gt; [\n            <span class=\"hljs-string\">'provider'</span> =&gt; <span class=\"hljs-string\">'users'</span>,\n            <span class=\"hljs-string\">'table'</span> =&gt; <span class=\"hljs-string\">'password_resets'</span>,\n            <span class=\"hljs-string\">'expire'</span> =&gt; <span class=\"hljs-number\">60</span>,\n            <span class=\"hljs-string\">'throttle'</span> =&gt; <span class=\"hljs-number\">60</span>,\n        ],\n    ],\n\n    <span class=\"hljs-comment\">/*\n    |--------------------------------------------------------------------------\n    | Password Confirmation Timeout\n    |--------------------------------------------------------------------------\n    |\n    | Here you may define the amount of seconds before a password confirmation\n    | times out and the user is prompted to re-enter their password via the\n    | confirmation screen. By default, the timeout lasts for three hours.\n    |\n    */</span>\n\n    <span class=\"hljs-string\">'password_timeout'</span> =&gt; <span class=\"hljs-number\">10800</span>,\n\n];</code></pre>\n<p>While I think PHP configuration files are far superior to, for example, YAML or XML configuration; there's one thing that annoys me quite a lot with it: there are no IDE insights in what kind of config values are available in this array, let alone which type of values they require.</p>\n<p>To counteract this problem, the official Laravel config files have these inline doc blocks explaining each config entry. Most serious third party packages also provide such doc blocks.</p>\n<p>With PHP 8 and <a href=\"/blog/php-8-named-arguments\">named arguments</a> though, there's a better solution available: config objects that know exactly what kind of data they'd need.</p>\n<p>Here's what I'd imagine the <code>auth.php</code> would look like with it:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-keyword\">return</span> <span class=\"hljs-highlight  type\">AuthConfig</span>::<span class=\"hljs-highlight  prop\">make</span>()\n    -&gt;<span class=\"hljs-highlight  prop\">defaults</span>(\n        <span class=\"hljs-highlight  prop\">guard</span>: <span class=\"hljs-string\">'web'</span>,\n        <span class=\"hljs-highlight  prop\">passwords</span>: <span class=\"hljs-string\">'users'</span>,\n    )\n    -&gt;<span class=\"hljs-highlight  prop\">guards</span>(\n        <span class=\"hljs-highlight  prop\">web</span>: <span class=\"hljs-highlight  type\">GuardConfig</span>::<span class=\"hljs-highlight  prop\">make</span>()\n            -&gt;<span class=\"hljs-highlight  prop\">driver</span>(<span class=\"hljs-string\">'session'</span>)\n            -&gt;<span class=\"hljs-highlight  prop\">provider</span>(<span class=\"hljs-string\">'users'</span>),\n        <span class=\"hljs-highlight  prop\">api</span>: <span class=\"hljs-highlight  type\">GuardConfig</span>::<span class=\"hljs-highlight  prop\">make</span>()\n            -&gt;<span class=\"hljs-highlight  prop\">driver</span>(<span class=\"hljs-string\">'token'</span>)\n            -&gt;<span class=\"hljs-highlight  prop\">provider</span>(<span class=\"hljs-string\">'users'</span>)\n            -&gt;<span class=\"hljs-highlight  prop\">hash</span>(<span class=\"hljs-keyword\">false</span>),\n    )\n    -&gt;<span class=\"hljs-highlight  prop\">providers</span>(\n        <span class=\"hljs-highlight  prop\">users</span>: <span class=\"hljs-highlight  type\">AuthProviderConfig</span>::<span class=\"hljs-highlight  prop\">make</span>()\n            -&gt;<span class=\"hljs-highlight  prop\">driver</span>(<span class=\"hljs-string\">'eloquent'</span>)\n            -&gt;<span class=\"hljs-highlight  prop\">model</span>(<span class=\"hljs-highlight  type\">User</span>::class),\n    )\n    -&gt;<span class=\"hljs-highlight  prop\">passwords</span>(\n        <span class=\"hljs-highlight  prop\">users</span>: <span class=\"hljs-highlight  type\">PasswordConfig</span>::<span class=\"hljs-highlight  prop\">make</span>()\n            -&gt;<span class=\"hljs-highlight  prop\">provider</span>(<span class=\"hljs-string\">'users'</span>)\n            -&gt;<span class=\"hljs-highlight  prop\">table</span>(<span class=\"hljs-string\">'password_resets'</span>)\n            -&gt;<span class=\"hljs-highlight  prop\">expire</span>(<span class=\"hljs-number\">60</span>)\n            -&gt;<span class=\"hljs-highlight  prop\">throttle</span>(<span class=\"hljs-number\">60</span>)\n    )\n    -&gt;<span class=\"hljs-highlight  prop\">passwordTimeout</span>(<span class=\"hljs-number\">10800</span>);</code></pre>\n<p>Thanks to named arguments and their support for <a href=\"/blog/php-8-named-arguments#named-arguments-in-depth\">variadic functions</a>, we end up with a conciser syntax, while still having all documentation available to us: it's added as property types and doc blocks in these config objects, instead of being hard coded in the config files as text.</p>\n<p>To me that's the most important value: your IDE tells you what you need to do, instead of having to read documentation — inline or external:</p>\n<p><img src=\"/resources/img/blog/config/config-1.png\" srcset=\"/resources/img/blog/config/config-1-1348x472.png 1348w, /resources/img/blog/config/config-1-1205x421.png 1205w, /resources/img/blog/config/config-1-602x210.png 602w, /resources/img/blog/config/config-1-1044x365.png 1044w, /resources/img/blog/config/config-1-852x298.png 852w\" sizes=\"\" alt=\"\"></img></p>\n<p>The only thing needed for this to work is some kind of interface that requires these config builders, as I like to call them, to implement a <code><span class=\"hljs-highlight  prop\">toArray</span></code> method. You could go one step further and turn things around by always using config objects instead of arrays, which would allow you to also make use of their built-in documentation when reading config, and not only when initializing it. That's a bit more of a aggressive change though.</p>\n<p>Here's what a config builder implementation would look like:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\"><span class=\"hljs-class\"><span class=\"hljs-keyword\">class</span> <span class=\"hljs-title\">AuthConfig</span> <span class=\"hljs-keyword\">extends</span> <span class=\"hljs-title\">ConfigBuilder</span>\n</span>{\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">defaults</span><span class=\"hljs-params\">(\n        <span class=\"hljs-highlight  type\">?string</span> $guard = <span class=\"hljs-highlight  keyword\">null</span>,\n        <span class=\"hljs-highlight  type\">?string</span> $password = <span class=\"hljs-highlight  keyword\">null</span>,\n        <span class=\"hljs-highlight  comment\">// …</span>\n    )</span>: <span class=\"hljs-title\">self</span> </span>{\n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">config</span>[<span class=\"hljs-string\">'defaults'</span>][<span class=\"hljs-string\">'guard'</span>] = \n            $guard \n            ?? <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">config</span>[<span class=\"hljs-string\">'defaults'</span>][<span class=\"hljs-string\">'guard'</span>] \n            ?? <span class=\"hljs-keyword\">null</span>;\n            \n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">config</span>[<span class=\"hljs-string\">'defaults'</span>][<span class=\"hljs-string\">'password'</span>] = \n            $password \n            ?? <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">config</span>[<span class=\"hljs-string\">'defaults'</span>][<span class=\"hljs-string\">'password'</span>] \n            ?? <span class=\"hljs-keyword\">null</span>;\n\n        <span class=\"hljs-keyword\">return</span> <span class=\"hljs-keyword\">$this</span>;\n    }\n\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">guards</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">GuardConfig</span> ...$guardConfigs)</span>: <span class=\"hljs-title\">self</span>\n    </span>{\n        <span class=\"hljs-keyword\">foreach</span> ($guardConfigs <span class=\"hljs-keyword\">as</span> $name =&gt; $guardConfig) {\n            <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">config</span>[<span class=\"hljs-string\">'guards'</span>][$name] = $guardConfig-&gt;<span class=\"hljs-highlight  prop\">toArray</span>();\n        }\n\n        <span class=\"hljs-keyword\">return</span> <span class=\"hljs-keyword\">$this</span>;\n    }\n\n    <span class=\"hljs-comment\">// …</span>\n\n    <span class=\"hljs-keyword\">public</span> <span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">passwordTimeout</span><span class=\"hljs-params\">(<span class=\"hljs-highlight  type\">int</span> $timeout)</span>: <span class=\"hljs-title\">self</span>\n    </span>{\n        <span class=\"hljs-keyword\">$this</span>-&gt;<span class=\"hljs-highlight  prop\">config</span>[<span class=\"hljs-string\">'password_timeout'</span>] = $timeout;\n        \n        <span class=\"hljs-keyword\">return</span> <span class=\"hljs-keyword\">$this</span>;\n    }\n}</code></pre>\n<p>Another improvement I can come up with is by using <a href=\"/blog/php-enums\">enums</a> instead of string values. They will be natively available in <a href=\"/blog/new-in-php-81\">PHP 8.1</a>, but there are also <a href=\"/blog/php-enums-before-php-81\">alternatives</a> out there for older PHP versions.</p>\n<p>Let's just assume we're already running PHP 8.1, we could write parts of it like so:</p>\n<pre><code class=\"language-php hljs php\" data-lang=\"php\">-&gt;<span class=\"hljs-highlight  prop\">guards</span>(\n    <span class=\"hljs-highlight  prop\">web</span>: <span class=\"hljs-highlight  type\">GuardConfig</span>::<span class=\"hljs-highlight  prop\">make</span>()\n        -&gt;<span class=\"hljs-highlight  prop\">driver</span>(<span class=\"hljs-highlight  green\"><span class=\"hljs-highlight  type\">Driver</span>::<span class=\"hljs-highlight  prop\">Session</span></span>)\n        -&gt;<span class=\"hljs-highlight  prop\">provider</span>(<span class=\"hljs-highlight  green\"><span class=\"hljs-highlight  type\">Provider</span>::<span class=\"hljs-highlight  prop\">Users</span></span>),\n    <span class=\"hljs-highlight  prop\">api</span>: <span class=\"hljs-highlight  type\">GuardConfig</span>::<span class=\"hljs-highlight  prop\">make</span>()\n        -&gt;<span class=\"hljs-highlight  prop\">driver</span>(<span class=\"hljs-highlight  green\"><span class=\"hljs-highlight  type\">Driver</span>::<span class=\"hljs-highlight  prop\">Token</span></span>)\n        -&gt;<span class=\"hljs-highlight  prop\">provider</span>(<span class=\"hljs-highlight  green\"><span class=\"hljs-highlight  type\">Provider</span>::<span class=\"hljs-highlight  prop\">Users</span></span>)\n        -&gt;<span class=\"hljs-highlight  prop\">hash</span>(<span class=\"hljs-keyword\">false</span>),\n)</code></pre>\n<p>These ideas aren't new, by the way. We've been using config objects in some of <a target=\"_blank\" href=\"https://spatie.be/open-source?search=&amp;sort=-downloads\">our packages</a> at Spatie, but we always start from a simple array and convert it when booting the application. There's also PHP CS that uses <a target=\"_blank\" href=\"https://github.com/FriendsOfPHP/PHP-CS-Fixer/blob/3.0/doc/config.rst\">the same approach</a>. Also, Symfony just recently <a href=\"https://symfony.com/blog/new-in-symfony-5-3-config-builder-classes\">added support</a> for a fluent interface to build their config files; great!</p>\n<p><div class=\"author\">\n    Noticed a tpyo? You can submit a\n    <a href=\"https://github.com/brendt/stitcher.io\" target=\"_blank\" rel=\"noopener noreferrer\">PR</a> to fix it.\n\n    If you want to stay up to date about what's happening on this blog, you can follow me\n    <a href=\"https://mobile.twitter.com/brendt_gd\" target=\"_blank\" rel=\"noopener noreferrer\">on Twitter</a> or subscribe to my newsletter:\n\n    <form action=\"https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0\" method=\"post\" class=\"newsletter-form\">\n        <label for=\"newsletter-email-0\">Email</label>\n        <input type=\"email\" name=\"email\" id=\"newsletter-email-0\"/>\n        <button type=\"submit\" class=\"cta cta-small\">Subscribe</button>\n    </form>\n</div>\n</p>\n<p>There's one advantage to tinkering with your own framework: you're not constrained by backwards compatibility and legacy. I imagine it might not be trivial to properly support config builders in Laravel, at least not as the default approach. They also become much less useful if you cannot use named arguments, which require PHP 8.</p>\n<p>But, who knows? Maybe something similar might get added in the future in Laravel? Or maybe some third-party packages start doing it on their own first. Anyway, I'm going to tinker some more with my custom framework, just for fun!</p>\n<p><div class=\"like-container\">\n    <div class=\"like placeholder\">\n        👍\n    </div>\n    <div class=\"like unliked hidden\">\n        👍\n    </div>\n    <div class=\"like liked hidden\">\n        👍 <span class=\"counter\">0</span>\n    </div>\n</div>\n</p>\n<p>What's your opinion on config builders? Let me know your thoughts, via <a target=\"_blank\" href=\"https://twitter.com/brendt_gd\">Twitter</a> or by <a target=\"_blank\" href=\"/newsletter/subscribe\">subscribing to my newsletter</a>.</p>",
+          "link": "https://stitcher.io/blog/what-about-config-builders",
+          "publishedOn": "2021-06-18T00:00:00.000Z",
+          "wordCount": 1325,
+          "title": "What about config builders?"
+        },
         {
           "id": "https://stitcher.io/blog/a-new-major-version-of-laravel-event-sourcing",
           "author": null,
