@@ -6,6 +6,69 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/114976",
+          "author": null,
+          "description": "Sergei Morozov",
+          "link": "http://news-web.php.net/php.internals/114976",
+          "publishedOn": "2021-06-19T18:18:32.000Z",
+          "wordCount": 279,
+          "title": "Re:  Changes in pdo_sqlite and var_dump in PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114975",
+          "author": null,
+          "description": "Nikita Popov",
+          "link": "http://news-web.php.net/php.internals/114975",
+          "publishedOn": "2021-06-19T18:04:34.000Z",
+          "wordCount": 245,
+          "title": "Re:  Changes in pdo_sqlite and var_dump in PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114974",
+          "author": null,
+          "description": "Sergei Morozov",
+          "link": "http://news-web.php.net/php.internals/114974",
+          "publishedOn": "2021-06-19T17:31:52.000Z",
+          "wordCount": 194,
+          "title": "Changes in pdo_sqlite and var_dump in PHP 8.1"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114973",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114973",
+          "publishedOn": "2021-06-19T11:59:21.000Z",
+          "wordCount": 726,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114972",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114972",
+          "publishedOn": "2021-06-19T11:42:08.000Z",
+          "wordCount": 209,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114971",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/114971",
+          "publishedOn": "2021-06-19T08:22:08.000Z",
+          "wordCount": 922,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114970",
+          "author": null,
+          "description": "Hamza Ahmad",
+          "link": "http://news-web.php.net/php.internals/114970",
+          "publishedOn": "2021-06-19T05:39:19.000Z",
+          "wordCount": 729,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114969",
           "author": null,
           "description": "Patrick ALLAERT",

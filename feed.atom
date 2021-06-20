@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T01:01:15.640Z</updated>
+    <updated>2021-06-20T01:03:46.507Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  Changes in pdo_sqlite and var_dump in PHP 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/114976</id>
+        <link href="http://news-web.php.net/php.internals/114976"/>
+        <updated>2021-06-19T18:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Sergei Morozov]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Changes in pdo_sqlite and var_dump in PHP 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/114975</id>
+        <link href="http://news-web.php.net/php.internals/114975"/>
+        <updated>2021-06-19T18:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Nikita Popov]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes in pdo_sqlite and var_dump in PHP 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/114974</id>
+        <link href="http://news-web.php.net/php.internals/114974"/>
+        <updated>2021-06-19T17:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Sergei Morozov]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/114973</id>
+        <link href="http://news-web.php.net/php.internals/114973"/>
+        <updated>2021-06-19T11:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/114972</id>
+        <link href="http://news-web.php.net/php.internals/114972"/>
+        <updated>2021-06-19T11:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/114971</id>
+        <link href="http://news-web.php.net/php.internals/114971"/>
+        <updated>2021-06-19T08:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/114970</id>
+        <link href="http://news-web.php.net/php.internals/114970"/>
+        <updated>2021-06-19T05:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Hamza Ahmad]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
         <id>http://news-web.php.net/php.internals/114969</id>
