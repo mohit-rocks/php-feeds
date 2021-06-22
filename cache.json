@@ -6,6 +6,186 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/115000",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/115000",
+          "publishedOn": "2021-06-22T00:50:00.000Z",
+          "wordCount": 423,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114999",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114999",
+          "publishedOn": "2021-06-22T00:22:21.000Z",
+          "wordCount": 349,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114998",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114998",
+          "publishedOn": "2021-06-22T00:03:56.000Z",
+          "wordCount": 714,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114997",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114997",
+          "publishedOn": "2021-06-21T23:28:48.000Z",
+          "wordCount": 258,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114996",
+          "author": null,
+          "description": "Benjamin Morel",
+          "link": "http://news-web.php.net/php.internals/114996",
+          "publishedOn": "2021-06-21T23:18:03.000Z",
+          "wordCount": 178,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114995",
+          "author": null,
+          "description": "Derick Rethans",
+          "link": "http://news-web.php.net/php.internals/114995",
+          "publishedOn": "2021-06-21T23:06:23.000Z",
+          "wordCount": 135,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114994",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114994",
+          "publishedOn": "2021-06-21T22:53:40.000Z",
+          "wordCount": 190,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114993",
+          "author": null,
+          "description": "Yasuo Ohgaki",
+          "link": "http://news-web.php.net/php.internals/114993",
+          "publishedOn": "2021-06-21T22:37:56.000Z",
+          "wordCount": 237,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114992",
+          "author": null,
+          "description": "Christian Schneider",
+          "link": "http://news-web.php.net/php.internals/114992",
+          "publishedOn": "2021-06-21T21:03:33.000Z",
+          "wordCount": 187,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114990",
+          "author": null,
+          "description": "Björn Larsson via internals",
+          "link": "http://news-web.php.net/php.internals/114990",
+          "publishedOn": "2021-06-21T20:50:51.000Z",
+          "wordCount": 463,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114991",
+          "author": null,
+          "description": "Björn Larsson via internals",
+          "link": "http://news-web.php.net/php.internals/114991",
+          "publishedOn": "2021-06-21T20:50:51.000Z",
+          "wordCount": 463,
+          "title": "Re:  [RFC] New in initializers"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114989",
+          "author": null,
+          "description": "Björn Larsson via internals",
+          "link": "http://news-web.php.net/php.internals/114989",
+          "publishedOn": "2021-06-21T20:34:44.000Z",
+          "wordCount": 1265,
+          "title": "Re:  [Vote] Partial Function Application"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114988",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114988",
+          "publishedOn": "2021-06-21T20:25:16.000Z",
+          "wordCount": 167,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114987",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/114987",
+          "publishedOn": "2021-06-21T20:24:47.000Z",
+          "wordCount": 339,
+          "title": "Re:  [RFC] is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114986",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/114986",
+          "publishedOn": "2021-06-21T19:55:54.000Z",
+          "wordCount": 530,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114985",
+          "author": null,
+          "description": "Mel Dafert",
+          "link": "http://news-web.php.net/php.internals/114985",
+          "publishedOn": "2021-06-21T18:51:01.000Z",
+          "wordCount": 228,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114984",
+          "author": null,
+          "description": "Kamil Tekiela",
+          "link": "http://news-web.php.net/php.internals/114984",
+          "publishedOn": "2021-06-21T17:49:51.000Z",
+          "wordCount": 223,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114983",
+          "author": null,
+          "description": "Rowan Tommins",
+          "link": "http://news-web.php.net/php.internals/114983",
+          "publishedOn": "2021-06-21T17:34:11.000Z",
+          "wordCount": 389,
+          "title": "Re:  [PROPOSAL] Bare name array literals (again)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114982",
+          "author": null,
+          "description": "Christoph M. Becker",
+          "link": "http://news-web.php.net/php.internals/114982",
+          "publishedOn": "2021-06-21T17:08:50.000Z",
+          "wordCount": 201,
+          "title": "Re: [RFC] make Reflection*#setAccessible() no-op"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/114981",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/114981",
+          "publishedOn": "2021-06-21T16:54:26.000Z",
+          "wordCount": 407,
+          "title": "[PROPOSAL] Bare name array literals (again)"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/114976",
           "author": null,
           "description": "Sergei Morozov",

@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T01:05:52.546Z</updated>
+    <updated>2021-06-22T00:58:34.764Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/115000</id>
+        <link href="http://news-web.php.net/php.internals/115000"/>
+        <updated>2021-06-22T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114999</id>
+        <link href="http://news-web.php.net/php.internals/114999"/>
+        <updated>2021-06-22T00:22:21.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114998</id>
+        <link href="http://news-web.php.net/php.internals/114998"/>
+        <updated>2021-06-22T00:03:56.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114997</id>
+        <link href="http://news-web.php.net/php.internals/114997"/>
+        <updated>2021-06-21T23:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114996</id>
+        <link href="http://news-web.php.net/php.internals/114996"/>
+        <updated>2021-06-21T23:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Benjamin Morel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114995</id>
+        <link href="http://news-web.php.net/php.internals/114995"/>
+        <updated>2021-06-21T23:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Derick Rethans]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114994</id>
+        <link href="http://news-web.php.net/php.internals/114994"/>
+        <updated>2021-06-21T22:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114993</id>
+        <link href="http://news-web.php.net/php.internals/114993"/>
+        <updated>2021-06-21T22:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Yasuo Ohgaki]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114992</id>
+        <link href="http://news-web.php.net/php.internals/114992"/>
+        <updated>2021-06-21T21:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Christian Schneider]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] New in initializers]]></title>
+        <id>http://news-web.php.net/php.internals/114990</id>
+        <link href="http://news-web.php.net/php.internals/114990"/>
+        <updated>2021-06-21T20:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Björn Larsson via internals]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] New in initializers]]></title>
+        <id>http://news-web.php.net/php.internals/114991</id>
+        <link href="http://news-web.php.net/php.internals/114991"/>
+        <updated>2021-06-21T20:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Björn Larsson via internals]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/114989</id>
+        <link href="http://news-web.php.net/php.internals/114989"/>
+        <updated>2021-06-21T20:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Björn Larsson via internals]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114988</id>
+        <link href="http://news-web.php.net/php.internals/114988"/>
+        <updated>2021-06-21T20:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/114987</id>
+        <link href="http://news-web.php.net/php.internals/114987"/>
+        <updated>2021-06-21T20:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114986</id>
+        <link href="http://news-web.php.net/php.internals/114986"/>
+        <updated>2021-06-21T19:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114985</id>
+        <link href="http://news-web.php.net/php.internals/114985"/>
+        <updated>2021-06-21T18:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Mel Dafert]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114984</id>
+        <link href="http://news-web.php.net/php.internals/114984"/>
+        <updated>2021-06-21T17:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114983</id>
+        <link href="http://news-web.php.net/php.internals/114983"/>
+        <updated>2021-06-21T17:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Rowan Tommins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: [RFC] make Reflection*#setAccessible() no-op]]></title>
+        <id>http://news-web.php.net/php.internals/114982</id>
+        <link href="http://news-web.php.net/php.internals/114982"/>
+        <updated>2021-06-21T17:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Christoph M. Becker]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PROPOSAL] Bare name array literals (again)]]></title>
+        <id>http://news-web.php.net/php.internals/114981</id>
+        <link href="http://news-web.php.net/php.internals/114981"/>
+        <updated>2021-06-21T16:54:26.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re:  Changes in pdo_sqlite and var_dump in PHP 8.1]]></title>
         <id>http://news-web.php.net/php.internals/114976</id>
