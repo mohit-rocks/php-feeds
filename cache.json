@@ -6,6 +6,186 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/115050",
+          "author": null,
+          "description": "Kim Hallberg",
+          "link": "http://news-web.php.net/php.internals/115050",
+          "publishedOn": "2021-06-23T00:25:26.000Z",
+          "wordCount": 298,
+          "title": "Proposal: clamp"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115049",
+          "author": null,
+          "description": "tyson andre",
+          "link": "http://news-web.php.net/php.internals/115049",
+          "publishedOn": "2021-06-22T22:52:09.000Z",
+          "wordCount": 207,
+          "title": "Re:  [RFC] Deprecate boolean to string coercion"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115048",
+          "author": null,
+          "description": "G. P. B.",
+          "link": "http://news-web.php.net/php.internals/115048",
+          "publishedOn": "2021-06-22T22:10:42.000Z",
+          "wordCount": 152,
+          "title": "[RFC] Deprecate boolean to string coercion"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115047",
+          "author": null,
+          "description": "Kamil Tekiela",
+          "link": "http://news-web.php.net/php.internals/115047",
+          "publishedOn": "2021-06-22T21:59:40.000Z",
+          "wordCount": 112,
+          "title": "Re: Add mysqi_stmt->query? (Was Sql Object Model Parser & Sanitizer)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115046",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/115046",
+          "publishedOn": "2021-06-22T21:35:06.000Z",
+          "wordCount": 232,
+          "title": "Add mysqi_stmt->query? (Was Sql Object Model Parser & Sanitizer)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115045",
+          "author": null,
+          "description": "Stephen Reay",
+          "link": "http://news-web.php.net/php.internals/115045",
+          "publishedOn": "2021-06-22T20:46:09.000Z",
+          "wordCount": 570,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115044",
+          "author": null,
+          "description": "Kamil Tekiela",
+          "link": "http://news-web.php.net/php.internals/115044",
+          "publishedOn": "2021-06-22T20:35:04.000Z",
+          "wordCount": 178,
+          "title": "Re:  [RFC] Name issue - is_literal/is_trusted"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115043",
+          "author": null,
+          "description": "Lauri_Kenttä",
+          "link": "http://news-web.php.net/php.internals/115043",
+          "publishedOn": "2021-06-22T20:01:15.000Z",
+          "wordCount": 436,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115042",
+          "author": null,
+          "description": "Derick Rethans",
+          "link": "http://news-web.php.net/php.internals/115042",
+          "publishedOn": "2021-06-22T19:50:45.000Z",
+          "wordCount": 184,
+          "title": "Re:  [RFC] Name issue - is_literal/is_trusted"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115041",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/115041",
+          "publishedOn": "2021-06-22T19:47:12.000Z",
+          "wordCount": 145,
+          "title": "Re:  [RFC] Name issue - is_literal/is_trusted"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115040",
+          "author": null,
+          "description": "Mel Dafert",
+          "link": "http://news-web.php.net/php.internals/115040",
+          "publishedOn": "2021-06-22T19:38:34.000Z",
+          "wordCount": 151,
+          "title": "Re:  [RFC] Name issue - is_literal/is_trusted"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115039",
+          "author": null,
+          "description": "Moritz Friedrich",
+          "link": "http://news-web.php.net/php.internals/115039",
+          "publishedOn": "2021-06-22T19:32:02.000Z",
+          "wordCount": 289,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115038",
+          "author": null,
+          "description": "Stephen Reay",
+          "link": "http://news-web.php.net/php.internals/115038",
+          "publishedOn": "2021-06-22T18:38:57.000Z",
+          "wordCount": 247,
+          "title": "Re:  [RFC] is_trusted - was is_literal"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115037",
+          "author": null,
+          "description": "Craig Francis",
+          "link": "http://news-web.php.net/php.internals/115037",
+          "publishedOn": "2021-06-22T18:11:05.000Z",
+          "wordCount": 591,
+          "title": "[RFC] Name issue - is_literal/is_trusted"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115036",
+          "author": null,
+          "description": "Kamil Tekiela",
+          "link": "http://news-web.php.net/php.internals/115036",
+          "publishedOn": "2021-06-22T17:22:59.000Z",
+          "wordCount": 165,
+          "title": "Re:  Sql Object Model Parser & Sanitizer (was [RFC] is_literal)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115035",
+          "author": null,
+          "description": "Larry Garfield",
+          "link": "http://news-web.php.net/php.internals/115035",
+          "publishedOn": "2021-06-22T16:56:24.000Z",
+          "wordCount": 252,
+          "title": "Re:__Sql_Object_Model_Parser_&_Sanitizer_(was_[RFC]_is_literal)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115034",
+          "author": null,
+          "description": "Kamil Tekiela",
+          "link": "http://news-web.php.net/php.internals/115034",
+          "publishedOn": "2021-06-22T16:54:01.000Z",
+          "wordCount": 835,
+          "title": "Re:  Sql Object Model Parser & Sanitizer (was [RFC] is_literal)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115033",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/115033",
+          "publishedOn": "2021-06-22T16:46:33.000Z",
+          "wordCount": 1210,
+          "title": "Re:  Sql Object Model Parser & Sanitizer (was [RFC]is_literal)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115032",
+          "author": null,
+          "description": "Mike Schinkel",
+          "link": "http://news-web.php.net/php.internals/115032",
+          "publishedOn": "2021-06-22T16:14:48.000Z",
+          "wordCount": 635,
+          "title": "Re:  Sql Object Model Parser & Sanitizer (was [RFC]is_literal)"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115031",
+          "author": null,
+          "description": "Pierre",
+          "link": "http://news-web.php.net/php.internals/115031",
+          "publishedOn": "2021-06-22T15:56:33.000Z",
+          "wordCount": 505,
+          "title": "Re:  Sql Object Model Parser & Sanitizer (was [RFC]is_literal)"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/115000",
           "author": null,
           "description": "tyson andre",

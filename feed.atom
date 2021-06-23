@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:58:34.764Z</updated>
+    <updated>2021-06-23T00:53:57.581Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Proposal: clamp]]></title>
+        <id>http://news-web.php.net/php.internals/115050</id>
+        <link href="http://news-web.php.net/php.internals/115050"/>
+        <updated>2021-06-23T00:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Kim Hallberg]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Deprecate boolean to string coercion]]></title>
+        <id>http://news-web.php.net/php.internals/115049</id>
+        <link href="http://news-web.php.net/php.internals/115049"/>
+        <updated>2021-06-22T22:52:09.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RFC] Deprecate boolean to string coercion]]></title>
+        <id>http://news-web.php.net/php.internals/115048</id>
+        <link href="http://news-web.php.net/php.internals/115048"/>
+        <updated>2021-06-22T22:10:42.000Z</updated>
+        <summary type="html"><![CDATA[G. P. B.]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: Add mysqi_stmt->query? (Was Sql Object Model Parser & Sanitizer)]]></title>
+        <id>http://news-web.php.net/php.internals/115047</id>
+        <link href="http://news-web.php.net/php.internals/115047"/>
+        <updated>2021-06-22T21:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add mysqi_stmt->query? (Was Sql Object Model Parser & Sanitizer)]]></title>
+        <id>http://news-web.php.net/php.internals/115046</id>
+        <link href="http://news-web.php.net/php.internals/115046"/>
+        <updated>2021-06-22T21:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/115045</id>
+        <link href="http://news-web.php.net/php.internals/115045"/>
+        <updated>2021-06-22T20:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Stephen Reay]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115044</id>
+        <link href="http://news-web.php.net/php.internals/115044"/>
+        <updated>2021-06-22T20:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/115043</id>
+        <link href="http://news-web.php.net/php.internals/115043"/>
+        <updated>2021-06-22T20:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Lauri_Kenttä]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115042</id>
+        <link href="http://news-web.php.net/php.internals/115042"/>
+        <updated>2021-06-22T19:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Derick Rethans]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115041</id>
+        <link href="http://news-web.php.net/php.internals/115041"/>
+        <updated>2021-06-22T19:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115040</id>
+        <link href="http://news-web.php.net/php.internals/115040"/>
+        <updated>2021-06-22T19:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Mel Dafert]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/115039</id>
+        <link href="http://news-web.php.net/php.internals/115039"/>
+        <updated>2021-06-22T19:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Moritz Friedrich]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] is_trusted - was is_literal]]></title>
+        <id>http://news-web.php.net/php.internals/115038</id>
+        <link href="http://news-web.php.net/php.internals/115038"/>
+        <updated>2021-06-22T18:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Stephen Reay]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115037</id>
+        <link href="http://news-web.php.net/php.internals/115037"/>
+        <updated>2021-06-22T18:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Sql Object Model Parser & Sanitizer (was [RFC] is_literal)]]></title>
+        <id>http://news-web.php.net/php.internals/115036</id>
+        <link href="http://news-web.php.net/php.internals/115036"/>
+        <updated>2021-06-22T17:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:__Sql_Object_Model_Parser_&_Sanitizer_(was_[RFC]_is_literal)]]></title>
+        <id>http://news-web.php.net/php.internals/115035</id>
+        <link href="http://news-web.php.net/php.internals/115035"/>
+        <updated>2021-06-22T16:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Sql Object Model Parser & Sanitizer (was [RFC] is_literal)]]></title>
+        <id>http://news-web.php.net/php.internals/115034</id>
+        <link href="http://news-web.php.net/php.internals/115034"/>
+        <updated>2021-06-22T16:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Sql Object Model Parser & Sanitizer (was [RFC]is_literal)]]></title>
+        <id>http://news-web.php.net/php.internals/115033</id>
+        <link href="http://news-web.php.net/php.internals/115033"/>
+        <updated>2021-06-22T16:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Sql Object Model Parser & Sanitizer (was [RFC]is_literal)]]></title>
+        <id>http://news-web.php.net/php.internals/115032</id>
+        <link href="http://news-web.php.net/php.internals/115032"/>
+        <updated>2021-06-22T16:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Sql Object Model Parser & Sanitizer (was [RFC]is_literal)]]></title>
+        <id>http://news-web.php.net/php.internals/115031</id>
+        <link href="http://news-web.php.net/php.internals/115031"/>
+        <updated>2021-06-22T15:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Pierre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re:  [PROPOSAL] Bare name array literals (again)]]></title>
         <id>http://news-web.php.net/php.internals/115000</id>
