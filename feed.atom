@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:53:57.581Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:48:40.414Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115090</id>
+        <link href="http://news-web.php.net/php.internals/115090"/>
+        <updated>2021-06-24T00:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Scott Arciszewski]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115089</id>
+        <link href="http://news-web.php.net/php.internals/115089"/>
+        <updated>2021-06-24T00:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] clamp]]></title>
+        <id>http://news-web.php.net/php.internals/115088</id>
+        <link href="http://news-web.php.net/php.internals/115088"/>
+        <updated>2021-06-24T00:15:38.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115087</id>
+        <link href="http://news-web.php.net/php.internals/115087"/>
+        <updated>2021-06-24T00:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Bruce Weirdan]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Add parse_query_string as an alternative to parse_str]]></title>
+        <id>http://news-web.php.net/php.internals/115086</id>
+        <link href="http://news-web.php.net/php.internals/115086"/>
+        <updated>2021-06-24T00:01:56.000Z</updated>
+        <summary type="html"><![CDATA[David Rodrigues]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] clamp]]></title>
+        <id>http://news-web.php.net/php.internals/115085</id>
+        <link href="http://news-web.php.net/php.internals/115085"/>
+        <updated>2021-06-23T23:50:29.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] make Reflection*#setAccessible() no-op]]></title>
+        <id>http://news-web.php.net/php.internals/115084</id>
+        <link href="http://news-web.php.net/php.internals/115084"/>
+        <updated>2021-06-23T23:20:26.000Z</updated>
+        <summary type="html"><![CDATA[tyson andre]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Add parse_query_string as an alternative to parse_str]]></title>
+        <id>http://news-web.php.net/php.internals/115083</id>
+        <link href="http://news-web.php.net/php.internals/115083"/>
+        <updated>2021-06-23T23:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Sara Golemon]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Introduce str_left/right In 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/115082</id>
+        <link href="http://news-web.php.net/php.internals/115082"/>
+        <updated>2021-06-23T22:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Sara Golemon]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RFC] Add parse_query_string as an alternative to parse_str]]></title>
+        <id>http://news-web.php.net/php.internals/115081</id>
+        <link href="http://news-web.php.net/php.internals/115081"/>
+        <updated>2021-06-23T22:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Introduce str_left/right In 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/115080</id>
+        <link href="http://news-web.php.net/php.internals/115080"/>
+        <updated>2021-06-23T21:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Rowan Tommins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Introduce str_left/right In 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/115079</id>
+        <link href="http://news-web.php.net/php.internals/115079"/>
+        <updated>2021-06-23T21:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Christoph M. Becker]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [VOTE] Deprecate autovivification on false]]></title>
+        <id>http://news-web.php.net/php.internals/115078</id>
+        <link href="http://news-web.php.net/php.internals/115078"/>
+        <updated>2021-06-23T21:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Introduce str_left/right In 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/115077</id>
+        <link href="http://news-web.php.net/php.internals/115077"/>
+        <updated>2021-06-23T19:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RFC] clamp]]></title>
+        <id>http://news-web.php.net/php.internals/115076</id>
+        <link href="http://news-web.php.net/php.internals/115076"/>
+        <updated>2021-06-23T18:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Kim Hallberg]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115075</id>
+        <link href="http://news-web.php.net/php.internals/115075"/>
+        <updated>2021-06-23T18:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Scott Arciszewski]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Introduce str_left/right In 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/115074</id>
+        <link href="http://news-web.php.net/php.internals/115074"/>
+        <updated>2021-06-23T17:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Guilliam Xavier]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: Requesting RFC karma]]></title>
+        <id>http://news-web.php.net/php.internals/115073</id>
+        <link href="http://news-web.php.net/php.internals/115073"/>
+        <updated>2021-06-23T17:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Christoph M. Becker]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Introduce str_left/right In 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/115072</id>
+        <link href="http://news-web.php.net/php.internals/115072"/>
+        <updated>2021-06-23T16:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Sara Golemon]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Requesting RFC karma]]></title>
+        <id>http://news-web.php.net/php.internals/115071</id>
+        <link href="http://news-web.php.net/php.internals/115071"/>
+        <updated>2021-06-23T15:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Kim Hallberg]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proposal: clamp]]></title>
         <id>http://news-web.php.net/php.internals/115050</id>
@@ -14,6 +214,81 @@
         <summary type="html"><![CDATA[Kim Hallberg]]></summary>
         <author>
             <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion-driven design]]></title>
+        <id>https://stitcher.io/blog/opinion-driven-design</id>
+        <link href="https://stitcher.io/blog/opinion-driven-design"/>
+        <updated>2021-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I once worked at a company that wrote and maintained an in-house framework. Over the course of ten years, they probably
+made around 250 websites and applications with it. Despite many shortcomings, the company kept using their framework for
+a simple reason: they were in control.</p>
+<p>Thanks to that control, they were able to tailor their framework to their own needs without any overhead. And, while I
+would argue that using popular, community-backed frameworks is almost always the better
+choice over writing your own , I can appreciate some of their reasoning.</p>
+<p><div class="ad-container">
+    <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CK7ICK3W&placement=stitcherio" id="_carbonads_js"></script>
+</div>
+</p>
+<p>Except, in the end, they utterly failed in creating what they originally set out to do. Instead of a tool shaped
+specifically for their needs, the framework's core developers often wanted flexibility: they dreamt of open sourcing
+their framework and it growing popular, so it needed to handle as many cases as possible to reach as wide an audience as
+possible. And thus, flexibility and configuration were often prioritized, even though they rarely added much — if any —
+value to company projects. The core developers were always able to convince the not-so-technical managers; while in
+reality, the design and flexibility of this framework was often just a burden for me and my colleagues to deal with.</p>
+<p>This mindset of "high configurability and flexibility" is, unfortunately, common in software design. I'm not sure
+why, but somehow programmers — myself included — often think they need to account for every possible outcome, even when those
+outcomes aren't relevant to their use cases. Many of us deal with some kind of fear of losing our audience if the code we're writing isn't able to handle the most specific of specific edge cases. A very counter-productive thought.</p>
+<hr />
+<p>Lately I've come to appreciate an opinion-driven approach to software design. Especially in the <a target="_blank" href="https://spatie.be/open-source?search=&amp;sort=-downloads">open source</a> world, where you're writing code for others to use. I used to tell myself I'd need to write more code for more flexibility "if I want this package to grow popular".</p>
+<p>I don't believe that anymore.</p>
+<p>These days, I prefer one way of solving a problem, instead of offering several options. As an open source maintainer, I realise that not everyone might like the solutions I come up with as much as I do; but in the end, if the job gets done, if my code is reliable, clear and useful; there rarely are any complaints. So I started to prefer opinion-driven design when I realised that flexibility comes with a price that is often not worth paying.</p>
+<p>I'm not the only one benefiting by the way. When users of my open source code only get one way of doing something, they
+don't have to be worried about micro-decisions that wouldn't affect the end result. And that, for me, is good software
+design: allowing programmers to focus on decisions that really matter and offer value to their projects and clients;
+instead of wasting time on unnecessary details.</p>
+<p><div class="like-container">
+    <div class="like placeholder">
+        👍
+    </div>
+    <div class="like unliked hidden">
+        👍
+    </div>
+    <div class="like liked hidden">
+        👍 <span class="counter">0</span>
+    </div>
+</div>
+</p>
+<p><div class="sidenote">
+    <p>
+        Thanks for reading! This post is part of my "Dev Diaries" series where I write about my own and personal experiences as a developer. Would you like to read some more?
+    </p>
+
+    <ul>
+        <li><a href="/blog/opinion-driven-design">Opinion-driven design</a></li>
+        <li><a href="/blog/dont-get-stuck">Don't get stuck</a></li>
+        <li><a href="/blog/dont-write-your-own-framework">Don't write your own framework</a></li>
+        <li><a href="/blog/honesty">Honesty</a></li>
+        <li><a href="/blog/when-i-lost-a-few-hundred-leads">When I lost a few hundred leads</a></li>
+        <li><a href="/blog/how-to-be-right-on-the-internet">How to be right on the internet</a></li>
+    </ul>
+
+    <p>
+
+        If you want to stay up to date about what's happening on this blog, you can follow me
+        <a href="https://mobile.twitter.com/brendt_gd" target="_blank" rel="noopener noreferrer">on Twitter</a> or subscribe to my newsletter:
+    </p>
+
+    <form action="https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0" method="post" class="newsletter-form">
+        <label for="email">Email</label>
+        <input type="email" name="email"/>
+        <button type="submit" class="cta cta-small">Subscribe</button>
+    </form>
+</div>
+</p>]]></summary>
+        <author>
+            <name>stitcher.io</name>
         </author>
     </entry>
     <entry>
