@@ -2,10 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T00:58:45.595Z</updated>
+    <updated>2021-06-27T01:08:37.100Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Add Random Extension (before: Add Random class)]]></title>
+        <id>http://news-web.php.net/php.internals/115163</id>
+        <link href="http://news-web.php.net/php.internals/115163"/>
+        <updated>2021-06-27T00:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Deprecate boolean to string coercion]]></title>
+        <id>http://news-web.php.net/php.internals/115162</id>
+        <link href="http://news-web.php.net/php.internals/115162"/>
+        <updated>2021-06-26T17:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  is_literal() is back]]></title>
+        <id>http://news-web.php.net/php.internals/115161</id>
+        <link href="http://news-web.php.net/php.internals/115161"/>
+        <updated>2021-06-26T16:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115160</id>
+        <link href="http://news-web.php.net/php.internals/115160"/>
+        <updated>2021-06-26T16:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Rowan Tommins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  is_literal() is back]]></title>
+        <id>http://news-web.php.net/php.internals/115159</id>
+        <link href="http://news-web.php.net/php.internals/115159"/>
+        <updated>2021-06-26T14:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Craig Francis]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  is_literal() is back]]></title>
+        <id>http://news-web.php.net/php.internals/115158</id>
+        <link href="http://news-web.php.net/php.internals/115158"/>
+        <updated>2021-06-26T13:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Mike Schinkel]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115157</id>
+        <link href="http://news-web.php.net/php.internals/115157"/>
+        <updated>2021-06-26T13:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Dan Ackroyd]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115156</id>
+        <link href="http://news-web.php.net/php.internals/115156"/>
+        <updated>2021-06-26T12:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Rowan Tommins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115155</id>
+        <link href="http://news-web.php.net/php.internals/115155"/>
+        <updated>2021-06-26T12:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Joe Watkins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  is_literal() is back]]></title>
+        <id>http://news-web.php.net/php.internals/115154</id>
+        <link href="http://news-web.php.net/php.internals/115154"/>
+        <updated>2021-06-26T12:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Dan Ackroyd]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  is_literal() is back]]></title>
+        <id>http://news-web.php.net/php.internals/115153</id>
+        <link href="http://news-web.php.net/php.internals/115153"/>
+        <updated>2021-06-26T12:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Dan Ackroyd]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Name issue - is_literal/is_trusted]]></title>
+        <id>http://news-web.php.net/php.internals/115152</id>
+        <link href="http://news-web.php.net/php.internals/115152"/>
+        <updated>2021-06-26T12:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Dan Ackroyd]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Add Random Extension (before: Add Random class)]]></title>
+        <id>http://news-web.php.net/php.internals/115151</id>
+        <link href="http://news-web.php.net/php.internals/115151"/>
+        <updated>2021-06-26T09:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Mel Dafert]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Add Random Extension (before: Add Random class)]]></title>
+        <id>http://news-web.php.net/php.internals/115150</id>
+        <link href="http://news-web.php.net/php.internals/115150"/>
+        <updated>2021-06-26T08:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Tekiela]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Under Discussion: Default User-Agent for cURL]]></title>
+        <id>http://news-web.php.net/php.internals/115149</id>
+        <link href="http://news-web.php.net/php.internals/115149"/>
+        <updated>2021-06-26T07:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Aleksander Machniak]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[RFC] Add Random Extension (before: Add Random class)]]></title>
         <id>http://news-web.php.net/php.internals/115148</id>
