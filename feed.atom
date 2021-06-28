@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T01:08:37.100Z</updated>
+    <updated>2021-06-28T01:02:33.799Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Proposal] call_user_func_map(): flexible named parameter mapping forcall_user_func*]]></title>
+        <id>http://news-web.php.net/php.internals/115166</id>
+        <link href="http://news-web.php.net/php.internals/115166"/>
+        <updated>2021-06-27T14:39:10.000Z</updated>
+        <summary type="html"><![CDATA[Ralph Schindler]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Under Discussion: Default User-Agent for cURL]]></title>
+        <id>http://news-web.php.net/php.internals/115165</id>
+        <link href="http://news-web.php.net/php.internals/115165"/>
+        <updated>2021-06-27T07:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Aleksander Machniak]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Under Discussion: Default User-Agent for cURL]]></title>
+        <id>http://news-web.php.net/php.internals/115164</id>
+        <link href="http://news-web.php.net/php.internals/115164"/>
+        <updated>2021-06-27T06:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Michael Maroszek]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re:  [RFC] Add Random Extension (before: Add Random class)]]></title>
         <id>http://news-web.php.net/php.internals/115163</id>

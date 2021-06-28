@@ -6,6 +6,33 @@
       "siteUrl": "http://news-web.php.net/group.php?group=php.internals",
       "articles": [
         {
+          "id": "http://news-web.php.net/php.internals/115166",
+          "author": null,
+          "description": "Ralph Schindler",
+          "link": "http://news-web.php.net/php.internals/115166",
+          "publishedOn": "2021-06-27T14:39:10.000Z",
+          "wordCount": 339,
+          "title": "[Proposal] call_user_func_map(): flexible named parameter mapping forcall_user_func*"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115165",
+          "author": null,
+          "description": "Aleksander Machniak",
+          "link": "http://news-web.php.net/php.internals/115165",
+          "publishedOn": "2021-06-27T07:25:38.000Z",
+          "wordCount": 185,
+          "title": "Re:  [RFC] Under Discussion: Default User-Agent for cURL"
+        },
+        {
+          "id": "http://news-web.php.net/php.internals/115164",
+          "author": null,
+          "description": "Michael Maroszek",
+          "link": "http://news-web.php.net/php.internals/115164",
+          "publishedOn": "2021-06-27T06:48:31.000Z",
+          "wordCount": 357,
+          "title": "Re:  [RFC] Under Discussion: Default User-Agent for cURL"
+        },
+        {
           "id": "http://news-web.php.net/php.internals/115163",
           "author": null,
           "description": "Larry Garfield",
