@@ -2,10 +2,348 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mohit-rocks.github.io/php-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T01:02:33.799Z</updated>
+    <updated>2021-06-29T00:58:21.915Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mohit-rocks.github.io/php-feeds/index.html"/>
     <link rel="self" href="https://mohit-rocks.github.io/php-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115200</id>
+        <link href="http://news-web.php.net/php.internals/115200"/>
+        <updated>2021-06-28T23:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115199</id>
+        <link href="http://news-web.php.net/php.internals/115199"/>
+        <updated>2021-06-28T22:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115198</id>
+        <link href="http://news-web.php.net/php.internals/115198"/>
+        <updated>2021-06-28T22:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115197</id>
+        <link href="http://news-web.php.net/php.internals/115197"/>
+        <updated>2021-06-28T22:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115196</id>
+        <link href="http://news-web.php.net/php.internals/115196"/>
+        <updated>2021-06-28T22:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Rowan Tommins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115195</id>
+        <link href="http://news-web.php.net/php.internals/115195"/>
+        <updated>2021-06-28T21:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115194</id>
+        <link href="http://news-web.php.net/php.internals/115194"/>
+        <updated>2021-06-28T20:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115193</id>
+        <link href="http://news-web.php.net/php.internals/115193"/>
+        <updated>2021-06-28T20:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115192</id>
+        <link href="http://news-web.php.net/php.internals/115192"/>
+        <updated>2021-06-28T20:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] Readonly properties]]></title>
+        <id>http://news-web.php.net/php.internals/115191</id>
+        <link href="http://news-web.php.net/php.internals/115191"/>
+        <updated>2021-06-28T20:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Larry Garfield]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115190</id>
+        <link href="http://news-web.php.net/php.internals/115190"/>
+        <updated>2021-06-28T20:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Rowan Tommins]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/115189</id>
+        <link href="http://news-web.php.net/php.internals/115189"/>
+        <updated>2021-06-28T19:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Björn Larsson via internals]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: [RFC] Deprecations for PHP 8.1]]></title>
+        <id>http://news-web.php.net/php.internals/115188</id>
+        <link href="http://news-web.php.net/php.internals/115188"/>
+        <updated>2021-06-28T19:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Jan Ehrhardt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [RFC] Pipe Operator, take 2]]></title>
+        <id>http://news-web.php.net/php.internals/115187</id>
+        <link href="http://news-web.php.net/php.internals/115187"/>
+        <updated>2021-06-28T19:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] Readonly properties]]></title>
+        <id>http://news-web.php.net/php.internals/115186</id>
+        <link href="http://news-web.php.net/php.internals/115186"/>
+        <updated>2021-06-28T18:36:42.000Z</updated>
+        <summary type="html"><![CDATA[Nicolas Grekas]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  Re: [RFC] Readonly properties]]></title>
+        <id>http://news-web.php.net/php.internals/115185</id>
+        <link href="http://news-web.php.net/php.internals/115185"/>
+        <updated>2021-06-28T18:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Nicolas Grekas]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  is_literal() compile-time awkwardness]]></title>
+        <id>http://news-web.php.net/php.internals/115184</id>
+        <link href="http://news-web.php.net/php.internals/115184"/>
+        <updated>2021-06-28T17:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Bruce Weirdan]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/115183</id>
+        <link href="http://news-web.php.net/php.internals/115183"/>
+        <updated>2021-06-28T17:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/115182</id>
+        <link href="http://news-web.php.net/php.internals/115182"/>
+        <updated>2021-06-28T16:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Levi Morrison via internals]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:  [Vote] Partial Function Application]]></title>
+        <id>http://news-web.php.net/php.internals/115181</id>
+        <link href="http://news-web.php.net/php.internals/115181"/>
+        <updated>2021-06-28T16:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Olle_Härstedt]]></summary>
+        <author>
+            <name>news-web.php.net: php.internals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP version stats: July, 2021]]></title>
+        <id>https://stitcher.io/blog/php-version-stats-july-2021</id>
+        <link href="https://stitcher.io/blog/php-version-stats-july-2021"/>
+        <updated>2021-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Last month, Jordi announced he'd be <a target="_blank" href="https://blog.packagist.com/sunsetting-the-php-version-stats-blog-series/">sunsetting</a> his PHP Version Stats blog series, so that he can focus on other types of content. As a replacement, he made <a target="_blank" href="https://packagist.org/php-statistics">a dashboard</a> with live version stats that you can check out any time you want.</p>
+<p>I made sure to let Jordi know how much I appreciated all the work he put into this, but also told him I felt kind of sad the series would end. While real-time stats are definitely useful, I did enjoy the occasional post that popped up every 6 months or so. They were a good interpretation of the data, and always sparked interesting discussions.</p>
+<p>So I asked Jordi if he'd be ok with me continuing the series, which he was. And so, here we are, with a brand new version stats update!</p>
+<p>I will keep a slightly different schedule though: I'll post in July and January, because I'm interested in seeing early adaption of the newest PHP version a month or so after it's released (which is usually at the end of November). I admit I'm two days early with this one, that's because of some upcoming holiday plans.
+And one more disclaimer: the <a target="_blank" href="https://packagist.org/php-statistics">data</a> used in this post only looks at the composer ecosystem, and while composer represents a large part of the PHP community, it doesn't represent the whole.</p>
+<p>With all of that being said, let's dive in!</p>
+<hr />
+<h2 id="usage-statistics"><a href="#usage-statistics" class="heading-anchor">#</a> Usage Statistics</h2>
+<p>Let's start with the raw numbers: the percentage of PHP versions being used:</p>
+<table>
+<tr class="table-head">
+    <td>Version</td>
+    <td>%</td>
+</tr>
+<tr>
+    <td>8.0</td>
+    <td>14.7</td>
+</tr>
+<tr>
+    <td>7.4</td>
+    <td>46.8</td>
+</tr>
+<tr>
+    <td>7.3</td>
+    <td>19.2</td>
+</tr>
+<tr>
+    <td>7.2</td>
+    <td>10.4</td>
+</tr>
+<tr>
+    <td>7.1</td>
+    <td>3.8</td>
+</tr>
+<tr>
+    <td>7.0</td>
+    <td>1.3</td>
+</tr>
+<tr>
+    <td>5.6</td>
+    <td>1.1</td>
+</tr>
+</table>
+<p>Note that I've excluded versions with less than 1% usage, in practice this means everything older than 5.6, as well as 8.1 (which hasn't been released yet) is excluded. Let's visualise this year's data and compare it to last year's:</p>
+<div class="image-noborder image-wide"></div>
+<p><a href="/resources/img/blog/version-stats/2021-july-01.svg"><img src="/resources/img/blog/version-stats/2021-july-01.svg" srcset="" sizes="" alt=""></img></a></p>
+<p><em class="center small"><a href="/resources/img/blog/version-stats/2021-july-01.svg">Evolution of version usage, now and in May, 2020</a></em></p>
+<p>PHP 7.4 has seen significant growth compared to last year. In fact, it looks like many people went straight from older versions to 7.4. Let's hope we'll be able to observe the same trend next year for PHP 8. Major version updates tend to take a little longer though; I assume that's because developers are wary of the breaking changes associated with them. Good news though: the update from PHP 7.4 to PHP 8 is actually surprisingly easy, thanks to the deprecation work that has been done in the 7.x series. It might be worth considering updating soon, not only because active support for PHP 7.4 ends in <a target="_blank" href="https://www.php.net/supported-versions.php">less than half a year</a>, but also because PHP 8 brings tons of <a href="/blog/new-in-php-8">new and useful features</a>.</p>
+<p><div class="author">
+    Noticed a tpyo? You can submit a
+    <a href="https://github.com/brendt/stitcher.io" target="_blank" rel="noopener noreferrer">PR</a> to fix it.
+
+    If you want to stay up to date about what's happening on this blog, you can follow me
+    <a href="https://mobile.twitter.com/brendt_gd" target="_blank" rel="noopener noreferrer">on Twitter</a> or subscribe to my newsletter:
+
+    <form action="https://mail.stitcher.io/subscribe/81fa83d0-4a0b-4eff-b897-f6ce51dfb7f0" method="post" class="newsletter-form">
+        <label for="newsletter-email-0">Email</label>
+        <input type="email" name="email" id="newsletter-email-0"/>
+        <button type="submit" class="cta cta-small">Subscribe</button>
+    </form>
+</div>
+</p>
+<p>Next, let's take a look at the all-time evolution chart, which also clearly visualizes the growth of PHP 7.4:</p>
+<div class="image-noborder image-wide"></div>
+<p><a href="/resources/img/blog/version-stats/2021-july-02.svg"><img src="/resources/img/blog/version-stats/2021-july-02.svg" srcset="" sizes="" alt=""></img></a></p>
+<p><em class="center small"><a href="/resources/img/blog/version-stats/2021-july-02.svg">All time evolution</a></em></p>
+<p>I want to emphasize once more that the update from PHP 7.4 to 8 isn't all that hard, and truly worth investing a little time in. There are tools like <a target="_blank" href="https://getrector.org/">Rector</a> and <a target="_blank" href="https://github.com/FriendsOfPHP/PHP-CS-Fixer">PHP CS Fixer</a> that can help make the upgrade even more smooth.</p>
+<h2 id="required-versions"><a href="#required-versions" class="heading-anchor">#</a> Required versions</h2>
+<p>I've used Nikita's <a target="_blank" href="https://github.com/nikic/popular-package-analysis">popular package analyzer</a> to download the 1000 most popular composer packages, and wrote a little script to get the lowest version they support from their <code>composer.json</code>. Here are the results:</p>
+<table>
+<tr class="table-head">
+    <td>Version</td>
+    <td>#</td>
+</tr>
+<tr>
+    <td>8.0</td>
+    <td>117</td>
+</tr>
+<tr>
+    <td>7.4</td>
+    <td>56</td>
+</tr>
+<tr>
+    <td>7.3</td>
+    <td>133</td>
+</tr>
+<tr>
+    <td>7.2</td>
+    <td>142</td>
+</tr>
+<tr>
+    <td>7.1</td>
+    <td>182</td>
+</tr>
+<tr>
+    <td>7.0</td>
+    <td>31</td>
+</tr>
+<tr>
+    <td>5.6</td>
+    <td>61</td>
+</tr>
+<tr>
+    <td>5.5</td>
+    <td>43</td>
+</tr>
+<tr>
+    <td>5.4</td>
+    <td>41</td>
+</tr>
+<tr>
+    <td>5.3</td>
+    <td>97</td>
+</tr>
+<tr>
+    <td>5.2</td>
+    <td>12</td>
+</tr>
+<tr>
+    <td>5.0</td>
+    <td>2</td>
+</tr>
+</table>
+<p>You'll notice there are a little less than 1000 packages included, that's because some of the 1000 most popular packages don't specifically require a PHP version.</p>
+<p>It's interesting how 7.1 is still the minimum required version for almost 20% of the analysed packages. 7.2 adds another 15%. In fact, <strong>only 18% of the most popular packages require an actively supported version as their minimum</strong>.</p>
+<p>I'm an open <a href="https://spatie.be/open-source?search=&amp;sort=-downloads">source maintainer</a> myself, and I believe we have a responsibility to the community to help keep their software stack safe and secure. This starts with only supporting active PHP versions. So I hope to see this number shift more towards PHP 8 in the near future because, remember, PHP 7.4 is already nearing its end!</p>
+<p>That being said, it's clear that many users <em>are</em> moving towards a supported PHP version, despite lower package requirements. I am a little worried about the move to PHP 8 though, and I hope we'll see broader adoption soon.</p>
+<hr />
+<p>What are your thoughts on these stats? Are you looking forward to <a href="/blog/new-in-php-81">PHP 8.1</a>? Let me know your thoughts on <a target="_blank" href="https://twitter.com/brendt_gd">Twitter</a> and subscribe to <a href="/newsletter/subscribe">my newsletter</a> if you want to be kept up-to-date about these posts!</p>]]></summary>
+        <author>
+            <name>stitcher.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Proposal] call_user_func_map(): flexible named parameter mapping forcall_user_func*]]></title>
         <id>http://news-web.php.net/php.internals/115166</id>
